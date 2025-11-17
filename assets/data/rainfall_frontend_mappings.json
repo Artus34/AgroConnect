@@ -1,0 +1,148 @@
+{
+  "subdivisions": [
+    {
+      "id": 0,
+      "name": "ANDAMAN & NICOBAR ISLANDS"
+    },
+    {
+      "id": 1,
+      "name": "ARUNACHAL PRADESH"
+    },
+    {
+      "id": 2,
+      "name": "ASSAM & MEGHALAYA"
+    },
+    {
+      "id": 3,
+      "name": "BIHAR"
+    },
+    {
+      "id": 4,
+      "name": "CHHATTISGARH"
+    },
+    {
+      "id": 5,
+      "name": "COASTAL ANDHRA PRADESH"
+    },
+    {
+      "id": 6,
+      "name": "COASTAL KARNATAKA"
+    },
+    {
+      "id": 7,
+      "name": "EAST MADHYA PRADESH"
+    },
+    {
+      "id": 8,
+      "name": "EAST RAJASTHAN"
+    },
+    {
+      "id": 9,
+      "name": "EAST UTTAR PRADESH"
+    },
+    {
+      "id": 10,
+      "name": "GANGETIC WEST BENGAL"
+    },
+    {
+      "id": 11,
+      "name": "GUJARAT REGION"
+    },
+    {
+      "id": 12,
+      "name": "HARYANA DELHI & CHANDIGARH"
+    },
+    {
+      "id": 13,
+      "name": "HIMACHAL PRADESH"
+    },
+    {
+      "id": 14,
+      "name": "JAMMU & KASHMIR"
+    },
+    {
+      "id": 15,
+      "name": "JHARKHAND"
+    },
+    {
+      "id": 16,
+      "name": "KERALA"
+    },
+    {
+      "id": 17,
+      "name": "KONKAN & GOA"
+    },
+    {
+      "id": 18,
+      "name": "LAKSHADWEEP"
+    },
+    {
+      "id": 19,
+      "name": "MADHYA MAHARASHTRA"
+    },
+    {
+      "id": 20,
+      "name": "MATATHWADA"
+    },
+    {
+      "id": 21,
+      "name": "NAGA MANI MIZO TRIPURA"
+    },
+    {
+      "id": 22,
+      "name": "NORTH INTERIOR KARNATAKA"
+    },
+    {
+      "id": 23,
+      "name": "ORISSA"
+    },
+    {
+      "id": 24,
+      "name": "PUNJAB"
+    },
+    {
+      "id": 25,
+      "name": "RAYALSEEMA"
+    },
+    {
+      "id": 26,
+      "name": "SAURASHTRA & KUTCH"
+    },
+    {
+      "id": 27,
+      "name": "SOUTH INTERIOR KARNATAKA"
+    },
+    {
+      "id": 28,
+      "name": "SUB HIMALAYAN WEST BENGAL & SIKKIM"
+    },
+    {
+      "id": 29,
+      "name": "TAMIL NADU"
+    },
+    {
+      "id": 30,
+      "name": "TELANGANA"
+    },
+    {
+      "id": 31,
+      "name": "UTTARAKHAND"
+    },
+    {
+      "id": 32,
+      "name": "VIDARBHA"
+    },
+    {
+      "id": 33,
+      "name": "WEST MADHYA PRADESH"
+    },
+    {
+      "id": 34,
+      "name": "WEST RAJASTHAN"
+    },
+    {
+      "id": 35,
+      "name": "WEST UTTAR PRADESH"
+    }
+  ]
+}
