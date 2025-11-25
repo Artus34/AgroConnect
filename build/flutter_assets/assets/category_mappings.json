@@ -1,0 +1,3650 @@
+{
+  "states": [
+    {
+      "id": 0,
+      "name": "Andaman and Nicobar Islands"
+    },
+    {
+      "id": 1,
+      "name": "Andhra Pradesh"
+    },
+    {
+      "id": 2,
+      "name": "Arunachal Pradesh"
+    },
+    {
+      "id": 3,
+      "name": "Assam"
+    },
+    {
+      "id": 4,
+      "name": "Bihar"
+    },
+    {
+      "id": 5,
+      "name": "Chandigarh"
+    },
+    {
+      "id": 6,
+      "name": "Chhattisgarh"
+    },
+    {
+      "id": 7,
+      "name": "Dadra and Nagar Haveli"
+    },
+    {
+      "id": 8,
+      "name": "Daman and Diu"
+    },
+    {
+      "id": 9,
+      "name": "Delhi"
+    },
+    {
+      "id": 10,
+      "name": "Goa"
+    },
+    {
+      "id": 11,
+      "name": "Gujarat"
+    },
+    {
+      "id": 12,
+      "name": "Haryana"
+    },
+    {
+      "id": 13,
+      "name": "Himachal Pradesh"
+    },
+    {
+      "id": 14,
+      "name": "Jammu and Kashmir"
+    },
+    {
+      "id": 15,
+      "name": "Jharkhand"
+    },
+    {
+      "id": 16,
+      "name": "Karnataka"
+    },
+    {
+      "id": 17,
+      "name": "Kerala"
+    },
+    {
+      "id": 18,
+      "name": "Laddakh"
+    },
+    {
+      "id": 19,
+      "name": "Madhya Pradesh"
+    },
+    {
+      "id": 20,
+      "name": "Maharashtra"
+    },
+    {
+      "id": 21,
+      "name": "Manipur"
+    },
+    {
+      "id": 22,
+      "name": "Meghalaya"
+    },
+    {
+      "id": 23,
+      "name": "Mizoram"
+    },
+    {
+      "id": 24,
+      "name": "Nagaland"
+    },
+    {
+      "id": 25,
+      "name": "Odisha"
+    },
+    {
+      "id": 26,
+      "name": "Puducherry"
+    },
+    {
+      "id": 27,
+      "name": "Punjab"
+    },
+    {
+      "id": 28,
+      "name": "Rajasthan"
+    },
+    {
+      "id": 29,
+      "name": "Sikkim"
+    },
+    {
+      "id": 30,
+      "name": "Tamil Nadu"
+    },
+    {
+      "id": 31,
+      "name": "Telangana"
+    },
+    {
+      "id": 32,
+      "name": "Tripura"
+    },
+    {
+      "id": 33,
+      "name": "Uttar Pradesh"
+    },
+    {
+      "id": 34,
+      "name": "Uttarakhand"
+    },
+    {
+      "id": 35,
+      "name": "West Bengal"
+    }
+  ],
+  "crops": [
+    {
+      "id": 0,
+      "name": "Arecanut"
+    },
+    {
+      "id": 1,
+      "name": "Arhar/Tur"
+    },
+    {
+      "id": 2,
+      "name": "Bajra"
+    },
+    {
+      "id": 3,
+      "name": "Banana"
+    },
+    {
+      "id": 4,
+      "name": "Barley"
+    },
+    {
+      "id": 5,
+      "name": "Black pepper"
+    },
+    {
+      "id": 6,
+      "name": "Cardamom"
+    },
+    {
+      "id": 7,
+      "name": "Cashewnut"
+    },
+    {
+      "id": 8,
+      "name": "Castor seed"
+    },
+    {
+      "id": 9,
+      "name": "Coconut"
+    },
+    {
+      "id": 10,
+      "name": "Coriander"
+    },
+    {
+      "id": 11,
+      "name": "Cotton(lint)"
+    },
+    {
+      "id": 12,
+      "name": "Cowpea(Lobia)"
+    },
+    {
+      "id": 13,
+      "name": "Dry Ginger"
+    },
+    {
+      "id": 14,
+      "name": "Dry chillies"
+    },
+    {
+      "id": 15,
+      "name": "Garlic"
+    },
+    {
+      "id": 16,
+      "name": "Ginger"
+    },
+    {
+      "id": 17,
+      "name": "Gram"
+    },
+    {
+      "id": 18,
+      "name": "Groundnut"
+    },
+    {
+      "id": 19,
+      "name": "Guar seed"
+    },
+    {
+      "id": 20,
+      "name": "Horse-gram"
+    },
+    {
+      "id": 21,
+      "name": "Jowar"
+    },
+    {
+      "id": 22,
+      "name": "Jute"
+    },
+    {
+      "id": 23,
+      "name": "Khesari"
+    },
+    {
+      "id": 24,
+      "name": "Linseed"
+    },
+    {
+      "id": 25,
+      "name": "Maize"
+    },
+    {
+      "id": 26,
+      "name": "Masoor"
+    },
+    {
+      "id": 27,
+      "name": "Mesta"
+    },
+    {
+      "id": 28,
+      "name": "Moong(Green Gram)"
+    },
+    {
+      "id": 29,
+      "name": "Moth"
+    },
+    {
+      "id": 30,
+      "name": "Niger seed"
+    },
+    {
+      "id": 31,
+      "name": "Oilseeds total"
+    },
+    {
+      "id": 32,
+      "name": "Onion"
+    },
+    {
+      "id": 33,
+      "name": "Other Cereals"
+    },
+    {
+      "id": 34,
+      "name": "Other Kharif pulses"
+    },
+    {
+      "id": 35,
+      "name": "Other Rabi pulses"
+    },
+    {
+      "id": 36,
+      "name": "Other Summer Pulses"
+    },
+    {
+      "id": 37,
+      "name": "Peas & beans (Pulses)"
+    },
+    {
+      "id": 38,
+      "name": "Potato"
+    },
+    {
+      "id": 39,
+      "name": "Ragi"
+    },
+    {
+      "id": 40,
+      "name": "Rapeseed &Mustard"
+    },
+    {
+      "id": 41,
+      "name": "Rice"
+    },
+    {
+      "id": 42,
+      "name": "Safflower"
+    },
+    {
+      "id": 43,
+      "name": "Sannhamp"
+    },
+    {
+      "id": 44,
+      "name": "Sesamum"
+    },
+    {
+      "id": 45,
+      "name": "Small millets"
+    },
+    {
+      "id": 46,
+      "name": "Soyabean"
+    },
+    {
+      "id": 47,
+      "name": "Sugarcane"
+    },
+    {
+      "id": 48,
+      "name": "Sunflower"
+    },
+    {
+      "id": 49,
+      "name": "Sweet potato"
+    },
+    {
+      "id": 50,
+      "name": "Tapioca"
+    },
+    {
+      "id": 51,
+      "name": "Tobacco"
+    },
+    {
+      "id": 52,
+      "name": "Turmeric"
+    },
+    {
+      "id": 53,
+      "name": "Urad"
+    },
+    {
+      "id": 54,
+      "name": "Wheat"
+    },
+    {
+      "id": 55,
+      "name": "other oilseeds"
+    }
+  ],
+  "seasons": [
+    {
+      "id": 0,
+      "name": "Autumn"
+    },
+    {
+      "id": 1,
+      "name": "Kharif"
+    },
+    {
+      "id": 2,
+      "name": "Rabi"
+    },
+    {
+      "id": 3,
+      "name": "Summer"
+    },
+    {
+      "id": 4,
+      "name": "Whole Year"
+    },
+    {
+      "id": 5,
+      "name": "Winter"
+    }
+  ],
+  "districts_by_state": {
+    "0": [
+      {
+        "id": 38,
+        "name": "Andaman and Nicobar Islands"
+      },
+      {
+        "id": 481,
+        "name": "NICOBARS"
+      },
+      {
+        "id": 485,
+        "name": "NORTH AND MIDDLE ANDAMAN"
+      },
+      {
+        "id": 627,
+        "name": "SOUTH ANDAMANS"
+      }
+    ],
+    "1": [
+      {
+        "id": 2,
+        "name": "ADILABAD"
+      },
+      {
+        "id": 25,
+        "name": "ANANTAPUR"
+      },
+      {
+        "id": 138,
+        "name": "CHITTOOR"
+      },
+      {
+        "id": 195,
+        "name": "EAST GODAVARI"
+      },
+      {
+        "id": 242,
+        "name": "GUNTUR"
+      },
+      {
+        "id": 266,
+        "name": "HYDERABAD"
+      },
+      {
+        "id": 307,
+        "name": "KADAPA"
+      },
+      {
+        "id": 333,
+        "name": "KARIMNAGAR"
+      },
+      {
+        "id": 345,
+        "name": "KHAMMAM"
+      },
+      {
+        "id": 375,
+        "name": "KRISHNA"
+      },
+      {
+        "id": 380,
+        "name": "KURNOOL"
+      },
+      {
+        "id": 409,
+        "name": "MAHBUBNAGAR"
+      },
+      {
+        "id": 431,
+        "name": "MEDAK"
+      },
+      {
+        "id": 466,
+        "name": "NALGONDA"
+      },
+      {
+        "id": 484,
+        "name": "NIZAMABAD"
+      },
+      {
+        "id": 522,
+        "name": "PRAKASAM"
+      },
+      {
+        "id": 550,
+        "name": "RANGAREDDI"
+      },
+      {
+        "id": 635,
+        "name": "SPSR NELLORE"
+      },
+      {
+        "id": 636,
+        "name": "SRIKAKULAM"
+      },
+      {
+        "id": 703,
+        "name": "VISAKHAPATANAM"
+      },
+      {
+        "id": 704,
+        "name": "VIZIANAGARAM"
+      },
+      {
+        "id": 706,
+        "name": "WARANGAL"
+      },
+      {
+        "id": 713,
+        "name": "WEST GODAVARI"
+      }
+    ],
+    "2": [
+      {
+        "id": 27,
+        "name": "ANJAW"
+      },
+      {
+        "id": 122,
+        "name": "CHANGLANG"
+      },
+      {
+        "id": 177,
+        "name": "DIBANG VALLEY"
+      },
+      {
+        "id": 197,
+        "name": "EAST KAMENG"
+      },
+      {
+        "id": 199,
+        "name": "EAST SIANG"
+      },
+      {
+        "id": 315,
+        "name": "KAMLE"
+      },
+      {
+        "id": 374,
+        "name": "KRA DAADI"
+      },
+      {
+        "id": 382,
+        "name": "KURUNG KUMEY"
+      },
+      {
+        "id": 392,
+        "name": "LEPARADA"
+      },
+      {
+        "id": 394,
+        "name": "LOHIT"
+      },
+      {
+        "id": 395,
+        "name": "LONGDING"
+      },
+      {
+        "id": 397,
+        "name": "LOWER DIBANG VALLEY"
+      },
+      {
+        "id": 398,
+        "name": "LOWER SIANG"
+      },
+      {
+        "id": 399,
+        "name": "LOWER SUBANSIRI"
+      },
+      {
+        "id": 468,
+        "name": "NAMSAI"
+      },
+      {
+        "id": 492,
+        "name": "PAKKE KESSANG"
+      },
+      {
+        "id": 503,
+        "name": "PAPUM PARE"
+      },
+      {
+        "id": 598,
+        "name": "SHI YOMI"
+      },
+      {
+        "id": 605,
+        "name": "SIANG"
+      },
+      {
+        "id": 650,
+        "name": "TAWANG"
+      },
+      {
+        "id": 666,
+        "name": "TIRAP"
+      },
+      {
+        "id": 688,
+        "name": "UPPER SIANG"
+      },
+      {
+        "id": 689,
+        "name": "UPPER SUBANSIRI"
+      },
+      {
+        "id": 715,
+        "name": "WEST KAMENG"
+      },
+      {
+        "id": 718,
+        "name": "WEST SIANG"
+      }
+    ],
+    "3": [
+      {
+        "id": 45,
+        "name": "BAKSA"
+      },
+      {
+        "id": 68,
+        "name": "BARPETA"
+      },
+      {
+        "id": 100,
+        "name": "BISWANATH"
+      },
+      {
+        "id": 102,
+        "name": "BONGAIGAON"
+      },
+      {
+        "id": 111,
+        "name": "CACHAR"
+      },
+      {
+        "id": 123,
+        "name": "CHARAIDEO"
+      },
+      {
+        "id": 135,
+        "name": "CHIRANG"
+      },
+      {
+        "id": 155,
+        "name": "DARRANG"
+      },
+      {
+        "id": 172,
+        "name": "DHEMAJI"
+      },
+      {
+        "id": 175,
+        "name": "DHUBRI"
+      },
+      {
+        "id": 178,
+        "name": "DIBRUGARH"
+      },
+      {
+        "id": 179,
+        "name": "DIMA HASAO"
+      },
+      {
+        "id": 231,
+        "name": "GOALPARA"
+      },
+      {
+        "id": 233,
+        "name": "GOLAGHAT"
+      },
+      {
+        "id": 247,
+        "name": "HAILAKANDI"
+      },
+      {
+        "id": 261,
+        "name": "HOJAI"
+      },
+      {
+        "id": 303,
+        "name": "JORHAT"
+      },
+      {
+        "id": 316,
+        "name": "KAMRUP"
+      },
+      {
+        "id": 317,
+        "name": "KAMRUP METRO"
+      },
+      {
+        "id": 330,
+        "name": "KARBI ANGLONG"
+      },
+      {
+        "id": 332,
+        "name": "KARIMGANJ"
+      },
+      {
+        "id": 360,
+        "name": "KOKRAJHAR"
+      },
+      {
+        "id": 385,
+        "name": "LAKHIMPUR"
+      },
+      {
+        "id": 416,
+        "name": "MAJULI"
+      },
+      {
+        "id": 427,
+        "name": "MARIGAON"
+      },
+      {
+        "id": 458,
+        "name": "NAGAON"
+      },
+      {
+        "id": 465,
+        "name": "NALBARI"
+      },
+      {
+        "id": 619,
+        "name": "SIVASAGAR"
+      },
+      {
+        "id": 626,
+        "name": "SONITPUR"
+      },
+      {
+        "id": 631,
+        "name": "SOUTH SALMARA MANCACHAR"
+      },
+      {
+        "id": 665,
+        "name": "TINSUKIA"
+      },
+      {
+        "id": 678,
+        "name": "UDALGURI"
+      },
+      {
+        "id": 716,
+        "name": "WEST KARBI ANGLONG"
+      }
+    ],
+    "4": [
+      {
+        "id": 30,
+        "name": "ARARIA"
+      },
+      {
+        "id": 33,
+        "name": "ARWAL"
+      },
+      {
+        "id": 36,
+        "name": "AURANGABAD"
+      },
+      {
+        "id": 58,
+        "name": "BANKA"
+      },
+      {
+        "id": 74,
+        "name": "BEGUSARAI"
+      },
+      {
+        "id": 83,
+        "name": "BHAGALPUR"
+      },
+      {
+        "id": 91,
+        "name": "BHOJPUR"
+      },
+      {
+        "id": 101,
+        "name": "BOKARO"
+      },
+      {
+        "id": 110,
+        "name": "BUXAR"
+      },
+      {
+        "id": 125,
+        "name": "CHATRA"
+      },
+      {
+        "id": 153,
+        "name": "DARBHANGA"
+      },
+      {
+        "id": 162,
+        "name": "DEOGHAR"
+      },
+      {
+        "id": 168,
+        "name": "DHANBAD"
+      },
+      {
+        "id": 188,
+        "name": "DUMKA"
+      },
+      {
+        "id": 200,
+        "name": "EAST SINGHBUM"
+      },
+      {
+        "id": 222,
+        "name": "GARHWA"
+      },
+      {
+        "id": 226,
+        "name": "GAYA"
+      },
+      {
+        "id": 230,
+        "name": "GIRIDIH"
+      },
+      {
+        "id": 232,
+        "name": "GODDA"
+      },
+      {
+        "id": 237,
+        "name": "GOPALGANJ"
+      },
+      {
+        "id": 240,
+        "name": "GUMLA"
+      },
+      {
+        "id": 258,
+        "name": "HAZARIBAGH"
+      },
+      {
+        "id": 286,
+        "name": "JAMUI"
+      },
+      {
+        "id": 292,
+        "name": "JEHANABAD"
+      },
+      {
+        "id": 308,
+        "name": "KAIMUR (BHABUA)"
+      },
+      {
+        "id": 339,
+        "name": "KATIHAR"
+      },
+      {
+        "id": 344,
+        "name": "KHAGARIA"
+      },
+      {
+        "id": 355,
+        "name": "KISHANGANJ"
+      },
+      {
+        "id": 358,
+        "name": "KODERMA"
+      },
+      {
+        "id": 386,
+        "name": "LAKHISARAI"
+      },
+      {
+        "id": 393,
+        "name": "LOHARDAGA"
+      },
+      {
+        "id": 403,
+        "name": "MADHEPURA"
+      },
+      {
+        "id": 404,
+        "name": "MADHUBANI"
+      },
+      {
+        "id": 450,
+        "name": "MUNGER"
+      },
+      {
+        "id": 453,
+        "name": "MUZAFFARPUR"
+      },
+      {
+        "id": 464,
+        "name": "NALANDA"
+      },
+      {
+        "id": 477,
+        "name": "NAWADA"
+      },
+      {
+        "id": 493,
+        "name": "PAKUR"
+      },
+      {
+        "id": 495,
+        "name": "PALAMU"
+      },
+      {
+        "id": 506,
+        "name": "PASHCHIM CHAMPARAN"
+      },
+      {
+        "id": 511,
+        "name": "PATNA"
+      },
+      {
+        "id": 528,
+        "name": "PURBI CHAMPARAN"
+      },
+      {
+        "id": 530,
+        "name": "PURNIA"
+      },
+      {
+        "id": 549,
+        "name": "RANCHI"
+      },
+      {
+        "id": 560,
+        "name": "ROHTAS"
+      },
+      {
+        "id": 567,
+        "name": "SAHARSA"
+      },
+      {
+        "id": 568,
+        "name": "SAHEBGANJ"
+      },
+      {
+        "id": 571,
+        "name": "SAMASTIPUR"
+      },
+      {
+        "id": 581,
+        "name": "SARAN"
+      },
+      {
+        "id": 595,
+        "name": "SHEIKHPURA"
+      },
+      {
+        "id": 596,
+        "name": "SHEOHAR"
+      },
+      {
+        "id": 616,
+        "name": "SITAMARHI"
+      },
+      {
+        "id": 620,
+        "name": "SIWAN"
+      },
+      {
+        "id": 641,
+        "name": "SUPAUL"
+      },
+      {
+        "id": 694,
+        "name": "VAISHALI"
+      },
+      {
+        "id": 719,
+        "name": "WEST SINGHBHUM"
+      }
+    ],
+    "5": [
+      {
+        "id": 120,
+        "name": "CHANDIGARH"
+      }
+    ],
+    "6": [
+      {
+        "id": 51,
+        "name": "BALOD"
+      },
+      {
+        "id": 52,
+        "name": "BALODA BAZAR"
+      },
+      {
+        "id": 53,
+        "name": "BALRAMPUR"
+      },
+      {
+        "id": 70,
+        "name": "BASTAR"
+      },
+      {
+        "id": 78,
+        "name": "BEMETARA"
+      },
+      {
+        "id": 94,
+        "name": "BIJAPUR"
+      },
+      {
+        "id": 97,
+        "name": "BILASPUR"
+      },
+      {
+        "id": 152,
+        "name": "DANTEWADA"
+      },
+      {
+        "id": 167,
+        "name": "DHAMTARI"
+      },
+      {
+        "id": 190,
+        "name": "DURG"
+      },
+      {
+        "id": 223,
+        "name": "GARIYABAND"
+      },
+      {
+        "id": 224,
+        "name": "GAURELLA-PENDRA-MARWAHI"
+      },
+      {
+        "id": 288,
+        "name": "JANJGIR-CHAMPA"
+      },
+      {
+        "id": 289,
+        "name": "JASHPUR"
+      },
+      {
+        "id": 305,
+        "name": "KABIRDHAM"
+      },
+      {
+        "id": 321,
+        "name": "KANKER"
+      },
+      {
+        "id": 366,
+        "name": "KONDAGAON"
+      },
+      {
+        "id": 369,
+        "name": "KORBA"
+      },
+      {
+        "id": 370,
+        "name": "KOREA"
+      },
+      {
+        "id": 408,
+        "name": "MAHASAMUND"
+      },
+      {
+        "id": 449,
+        "name": "MUNGELI"
+      },
+      {
+        "id": 472,
+        "name": "NARAYANPUR"
+      },
+      {
+        "id": 535,
+        "name": "RAIGARH"
+      },
+      {
+        "id": 536,
+        "name": "RAIPUR"
+      },
+      {
+        "id": 542,
+        "name": "RAJNANDGAON"
+      },
+      {
+        "id": 638,
+        "name": "SUKMA"
+      },
+      {
+        "id": 642,
+        "name": "SURAJPUR"
+      },
+      {
+        "id": 645,
+        "name": "SURGUJA"
+      }
+    ],
+    "7": [
+      {
+        "id": 146,
+        "name": "DADRA AND NAGAR HAVELI"
+      }
+    ],
+    "8": [
+      {
+        "id": 149,
+        "name": "DAMAN"
+      },
+      {
+        "id": 185,
+        "name": "DIU"
+      },
+      {
+        "id": 191,
+        "name": "Daman and Diu"
+      }
+    ],
+    "9": [
+      {
+        "id": 160,
+        "name": "DELHI_TOTAL"
+      },
+      {
+        "id": 192,
+        "name": "Delhi"
+      }
+    ],
+    "10": [
+      {
+        "id": 246,
+        "name": "Goa"
+      },
+      {
+        "id": 488,
+        "name": "NORTH GOA"
+      },
+      {
+        "id": 630,
+        "name": "SOUTH GOA"
+      }
+    ],
+    "11": [
+      {
+        "id": 5,
+        "name": "AHMADABAD"
+      },
+      {
+        "id": 21,
+        "name": "AMRELI"
+      },
+      {
+        "id": 24,
+        "name": "ANAND"
+      },
+      {
+        "id": 31,
+        "name": "ARAVALLI"
+      },
+      {
+        "id": 54,
+        "name": "BANAS KANTHA"
+      },
+      {
+        "id": 86,
+        "name": "BHARUCH"
+      },
+      {
+        "id": 87,
+        "name": "BHAVNAGAR"
+      },
+      {
+        "id": 103,
+        "name": "BOTAD"
+      },
+      {
+        "id": 130,
+        "name": "CHHOTAUDEPUR"
+      },
+      {
+        "id": 151,
+        "name": "DANG"
+      },
+      {
+        "id": 164,
+        "name": "DEVBHUMI DWARKA"
+      },
+      {
+        "id": 187,
+        "name": "DOHAD"
+      },
+      {
+        "id": 219,
+        "name": "GANDHINAGAR"
+      },
+      {
+        "id": 229,
+        "name": "GIR SOMNATH"
+      },
+      {
+        "id": 284,
+        "name": "JAMNAGAR"
+      },
+      {
+        "id": 304,
+        "name": "JUNAGADH"
+      },
+      {
+        "id": 306,
+        "name": "KACHCHH"
+      },
+      {
+        "id": 348,
+        "name": "KHEDA"
+      },
+      {
+        "id": 412,
+        "name": "MAHESANA"
+      },
+      {
+        "id": 413,
+        "name": "MAHISAGAR"
+      },
+      {
+        "id": 443,
+        "name": "MORBI"
+      },
+      {
+        "id": 473,
+        "name": "NARMADA"
+      },
+      {
+        "id": 476,
+        "name": "NAVSARI"
+      },
+      {
+        "id": 499,
+        "name": "PANCH MAHALS"
+      },
+      {
+        "id": 507,
+        "name": "PATAN"
+      },
+      {
+        "id": 521,
+        "name": "PORBANDAR"
+      },
+      {
+        "id": 541,
+        "name": "RAJKOT"
+      },
+      {
+        "id": 564,
+        "name": "SABAR KANTHA"
+      },
+      {
+        "id": 643,
+        "name": "SURAT"
+      },
+      {
+        "id": 644,
+        "name": "SURENDRANAGAR"
+      },
+      {
+        "id": 648,
+        "name": "TAPI"
+      },
+      {
+        "id": 693,
+        "name": "VADODARA"
+      },
+      {
+        "id": 695,
+        "name": "VALSAD"
+      }
+    ],
+    "12": [
+      {
+        "id": 17,
+        "name": "AMBALA"
+      },
+      {
+        "id": 90,
+        "name": "BHIWANI"
+      },
+      {
+        "id": 124,
+        "name": "CHARKI DADRI"
+      },
+      {
+        "id": 206,
+        "name": "FARIDABAD"
+      },
+      {
+        "id": 209,
+        "name": "FATEHABAD"
+      },
+      {
+        "id": 244,
+        "name": "GURGAON"
+      },
+      {
+        "id": 260,
+        "name": "HISAR"
+      },
+      {
+        "id": 294,
+        "name": "JHAJJAR"
+      },
+      {
+        "id": 300,
+        "name": "JIND"
+      },
+      {
+        "id": 309,
+        "name": "KAITHAL"
+      },
+      {
+        "id": 334,
+        "name": "KARNAL"
+      },
+      {
+        "id": 381,
+        "name": "KURUKSHETRA"
+      },
+      {
+        "id": 411,
+        "name": "MAHENDRAGARH"
+      },
+      {
+        "id": 437,
+        "name": "MEWAT"
+      },
+      {
+        "id": 498,
+        "name": "PALWAL"
+      },
+      {
+        "id": 500,
+        "name": "PANCHKULA"
+      },
+      {
+        "id": 501,
+        "name": "PANIPAT"
+      },
+      {
+        "id": 557,
+        "name": "REWARI"
+      },
+      {
+        "id": 559,
+        "name": "ROHTAK"
+      },
+      {
+        "id": 615,
+        "name": "SIRSA"
+      },
+      {
+        "id": 625,
+        "name": "SONIPAT"
+      },
+      {
+        "id": 725,
+        "name": "YAMUNANAGAR"
+      }
+    ],
+    "13": [
+      {
+        "id": 97,
+        "name": "BILASPUR"
+      },
+      {
+        "id": 114,
+        "name": "CHAMBA"
+      },
+      {
+        "id": 248,
+        "name": "HAMIRPUR"
+      },
+      {
+        "id": 320,
+        "name": "KANGRA"
+      },
+      {
+        "id": 353,
+        "name": "KINNAUR"
+      },
+      {
+        "id": 378,
+        "name": "KULLU"
+      },
+      {
+        "id": 384,
+        "name": "LAHUL AND SPITI"
+      },
+      {
+        "id": 422,
+        "name": "MANDI"
+      },
+      {
+        "id": 599,
+        "name": "SHIMLA"
+      },
+      {
+        "id": 613,
+        "name": "SIRMAUR"
+      },
+      {
+        "id": 621,
+        "name": "SOLAN"
+      },
+      {
+        "id": 685,
+        "name": "UNA"
+      }
+    ],
+    "14": [
+      {
+        "id": 26,
+        "name": "ANANTNAG"
+      },
+      {
+        "id": 39,
+        "name": "BADGAM"
+      },
+      {
+        "id": 56,
+        "name": "BANDIPORA"
+      },
+      {
+        "id": 62,
+        "name": "BARAMULLA"
+      },
+      {
+        "id": 186,
+        "name": "DODA"
+      },
+      {
+        "id": 218,
+        "name": "GANDERBAL"
+      },
+      {
+        "id": 283,
+        "name": "JAMMU"
+      },
+      {
+        "id": 331,
+        "name": "KARGIL"
+      },
+      {
+        "id": 338,
+        "name": "KATHUA"
+      },
+      {
+        "id": 356,
+        "name": "KISHTWAR"
+      },
+      {
+        "id": 377,
+        "name": "KULGAM"
+      },
+      {
+        "id": 379,
+        "name": "KUPWARA"
+      },
+      {
+        "id": 391,
+        "name": "LEH LADAKH"
+      },
+      {
+        "id": 520,
+        "name": "POONCH"
+      },
+      {
+        "id": 525,
+        "name": "PULWAMA"
+      },
+      {
+        "id": 539,
+        "name": "RAJAURI"
+      },
+      {
+        "id": 546,
+        "name": "RAMBAN"
+      },
+      {
+        "id": 555,
+        "name": "REASI"
+      },
+      {
+        "id": 572,
+        "name": "SAMBA"
+      },
+      {
+        "id": 603,
+        "name": "SHOPIAN"
+      },
+      {
+        "id": 637,
+        "name": "SRINAGAR"
+      },
+      {
+        "id": 680,
+        "name": "UDHAMPUR"
+      }
+    ],
+    "15": [
+      {
+        "id": 101,
+        "name": "BOKARO"
+      },
+      {
+        "id": 125,
+        "name": "CHATRA"
+      },
+      {
+        "id": 162,
+        "name": "DEOGHAR"
+      },
+      {
+        "id": 168,
+        "name": "DHANBAD"
+      },
+      {
+        "id": 188,
+        "name": "DUMKA"
+      },
+      {
+        "id": 200,
+        "name": "EAST SINGHBUM"
+      },
+      {
+        "id": 222,
+        "name": "GARHWA"
+      },
+      {
+        "id": 230,
+        "name": "GIRIDIH"
+      },
+      {
+        "id": 232,
+        "name": "GODDA"
+      },
+      {
+        "id": 240,
+        "name": "GUMLA"
+      },
+      {
+        "id": 258,
+        "name": "HAZARIBAGH"
+      },
+      {
+        "id": 285,
+        "name": "JAMTARA"
+      },
+      {
+        "id": 352,
+        "name": "KHUNTI"
+      },
+      {
+        "id": 358,
+        "name": "KODERMA"
+      },
+      {
+        "id": 388,
+        "name": "LATEHAR"
+      },
+      {
+        "id": 393,
+        "name": "LOHARDAGA"
+      },
+      {
+        "id": 493,
+        "name": "PAKUR"
+      },
+      {
+        "id": 495,
+        "name": "PALAMU"
+      },
+      {
+        "id": 547,
+        "name": "RAMGARH"
+      },
+      {
+        "id": 549,
+        "name": "RANCHI"
+      },
+      {
+        "id": 568,
+        "name": "SAHEBGANJ"
+      },
+      {
+        "id": 580,
+        "name": "SARAIKELA KHARSAWAN"
+      },
+      {
+        "id": 610,
+        "name": "SIMDEGA"
+      },
+      {
+        "id": 719,
+        "name": "WEST SINGHBHUM"
+      }
+    ],
+    "16": [
+      {
+        "id": 40,
+        "name": "BAGALKOT"
+      },
+      {
+        "id": 41,
+        "name": "BAGALKOTE"
+      },
+      {
+        "id": 49,
+        "name": "BALLARI"
+      },
+      {
+        "id": 57,
+        "name": "BANGALORE RURAL"
+      },
+      {
+        "id": 75,
+        "name": "BELAGAVI"
+      },
+      {
+        "id": 76,
+        "name": "BELGAUM"
+      },
+      {
+        "id": 77,
+        "name": "BELLARY"
+      },
+      {
+        "id": 79,
+        "name": "BENGALURU URBAN"
+      },
+      {
+        "id": 93,
+        "name": "BIDAR"
+      },
+      {
+        "id": 94,
+        "name": "BIJAPUR"
+      },
+      {
+        "id": 112,
+        "name": "CHAMARAJANAGAR"
+      },
+      {
+        "id": 113,
+        "name": "CHAMARAJANAGARA"
+      },
+      {
+        "id": 131,
+        "name": "CHIKBALLAPUR"
+      },
+      {
+        "id": 132,
+        "name": "CHIKKABALLAPURA"
+      },
+      {
+        "id": 133,
+        "name": "CHIKKAMAGALURU"
+      },
+      {
+        "id": 134,
+        "name": "CHIKMAGALUR"
+      },
+      {
+        "id": 136,
+        "name": "CHITRADURGA"
+      },
+      {
+        "id": 147,
+        "name": "DAKSHIN KANNAD"
+      },
+      {
+        "id": 148,
+        "name": "DAKSHINA KANNADA"
+      },
+      {
+        "id": 158,
+        "name": "DAVANGERE"
+      },
+      {
+        "id": 171,
+        "name": "DHARWAD"
+      },
+      {
+        "id": 215,
+        "name": "GADAG"
+      },
+      {
+        "id": 239,
+        "name": "GULBARGA"
+      },
+      {
+        "id": 255,
+        "name": "HASSAN"
+      },
+      {
+        "id": 257,
+        "name": "HAVERI"
+      },
+      {
+        "id": 310,
+        "name": "KALABURAGI"
+      },
+      {
+        "id": 357,
+        "name": "KODAGU"
+      },
+      {
+        "id": 361,
+        "name": "KOLAR"
+      },
+      {
+        "id": 367,
+        "name": "KOPPAL"
+      },
+      {
+        "id": 425,
+        "name": "MANDYA"
+      },
+      {
+        "id": 454,
+        "name": "MYSORE"
+      },
+      {
+        "id": 455,
+        "name": "MYSURU"
+      },
+      {
+        "id": 533,
+        "name": "RAICHUR"
+      },
+      {
+        "id": 544,
+        "name": "RAMANAGARA"
+      },
+      {
+        "id": 600,
+        "name": "SHIMOGA"
+      },
+      {
+        "id": 601,
+        "name": "SHIVAMOGGA"
+      },
+      {
+        "id": 674,
+        "name": "TUMAKURU"
+      },
+      {
+        "id": 675,
+        "name": "TUMKUR"
+      },
+      {
+        "id": 681,
+        "name": "UDUPI"
+      },
+      {
+        "id": 690,
+        "name": "UTTAR KANNAD"
+      },
+      {
+        "id": 692,
+        "name": "UTTARA KANNADA"
+      },
+      {
+        "id": 699,
+        "name": "VIJAYAPURA"
+      },
+      {
+        "id": 723,
+        "name": "YADAGIRI"
+      },
+      {
+        "id": 724,
+        "name": "YADGIR"
+      }
+    ],
+    "17": [
+      {
+        "id": 10,
+        "name": "ALAPPUZHA"
+      },
+      {
+        "id": 201,
+        "name": "ERNAKULAM"
+      },
+      {
+        "id": 267,
+        "name": "IDUKKI"
+      },
+      {
+        "id": 324,
+        "name": "KANNUR"
+      },
+      {
+        "id": 336,
+        "name": "KASARAGOD"
+      },
+      {
+        "id": 364,
+        "name": "KOLLAM"
+      },
+      {
+        "id": 372,
+        "name": "KOTTAYAM"
+      },
+      {
+        "id": 373,
+        "name": "KOZHIKODE"
+      },
+      {
+        "id": 417,
+        "name": "MALAPPURAM"
+      },
+      {
+        "id": 494,
+        "name": "PALAKKAD"
+      },
+      {
+        "id": 508,
+        "name": "PATHANAMTHITTA"
+      },
+      {
+        "id": 659,
+        "name": "THIRUVANANTHAPURAM"
+      },
+      {
+        "id": 663,
+        "name": "THRISSUR"
+      },
+      {
+        "id": 710,
+        "name": "WAYANAD"
+      }
+    ],
+    "18": [
+      {
+        "id": 331,
+        "name": "KARGIL"
+      }
+    ],
+    "19": [
+      {
+        "id": 3,
+        "name": "AGAR MALWA"
+      },
+      {
+        "id": 13,
+        "name": "ALIRAJPUR"
+      },
+      {
+        "id": 29,
+        "name": "ANUPPUR"
+      },
+      {
+        "id": 34,
+        "name": "ASHOKNAGAR"
+      },
+      {
+        "id": 46,
+        "name": "BALAGHAT"
+      },
+      {
+        "id": 69,
+        "name": "BARWANI"
+      },
+      {
+        "id": 70,
+        "name": "BASTAR"
+      },
+      {
+        "id": 80,
+        "name": "BETUL"
+      },
+      {
+        "id": 89,
+        "name": "BHIND"
+      },
+      {
+        "id": 92,
+        "name": "BHOPAL"
+      },
+      {
+        "id": 97,
+        "name": "BILASPUR"
+      },
+      {
+        "id": 109,
+        "name": "BURHANPUR"
+      },
+      {
+        "id": 128,
+        "name": "CHHATARPUR"
+      },
+      {
+        "id": 129,
+        "name": "CHHINDWARA"
+      },
+      {
+        "id": 150,
+        "name": "DAMOH"
+      },
+      {
+        "id": 152,
+        "name": "DANTEWADA"
+      },
+      {
+        "id": 156,
+        "name": "DATIA"
+      },
+      {
+        "id": 165,
+        "name": "DEWAS"
+      },
+      {
+        "id": 167,
+        "name": "DHAMTARI"
+      },
+      {
+        "id": 169,
+        "name": "DHAR"
+      },
+      {
+        "id": 184,
+        "name": "DINDORI"
+      },
+      {
+        "id": 190,
+        "name": "DURG"
+      },
+      {
+        "id": 241,
+        "name": "GUNA"
+      },
+      {
+        "id": 245,
+        "name": "GWALIOR"
+      },
+      {
+        "id": 252,
+        "name": "HARDA"
+      },
+      {
+        "id": 263,
+        "name": "HOSHANGABAD"
+      },
+      {
+        "id": 270,
+        "name": "INDORE"
+      },
+      {
+        "id": 271,
+        "name": "JABALPUR"
+      },
+      {
+        "id": 288,
+        "name": "JANJGIR-CHAMPA"
+      },
+      {
+        "id": 289,
+        "name": "JASHPUR"
+      },
+      {
+        "id": 293,
+        "name": "JHABUA"
+      },
+      {
+        "id": 305,
+        "name": "KABIRDHAM"
+      },
+      {
+        "id": 321,
+        "name": "KANKER"
+      },
+      {
+        "id": 340,
+        "name": "KATNI"
+      },
+      {
+        "id": 346,
+        "name": "KHANDWA"
+      },
+      {
+        "id": 347,
+        "name": "KHARGONE"
+      },
+      {
+        "id": 369,
+        "name": "KORBA"
+      },
+      {
+        "id": 370,
+        "name": "KOREA"
+      },
+      {
+        "id": 408,
+        "name": "MAHASAMUND"
+      },
+      {
+        "id": 423,
+        "name": "MANDLA"
+      },
+      {
+        "id": 424,
+        "name": "MANDSAUR"
+      },
+      {
+        "id": 444,
+        "name": "MORENA"
+      },
+      {
+        "id": 474,
+        "name": "NARSINGHPUR"
+      },
+      {
+        "id": 480,
+        "name": "NEEMUCH"
+      },
+      {
+        "id": 483,
+        "name": "NIWARI"
+      },
+      {
+        "id": 502,
+        "name": "PANNA"
+      },
+      {
+        "id": 536,
+        "name": "RAIPUR"
+      },
+      {
+        "id": 537,
+        "name": "RAISEN"
+      },
+      {
+        "id": 540,
+        "name": "RAJGARH"
+      },
+      {
+        "id": 542,
+        "name": "RAJNANDGAON"
+      },
+      {
+        "id": 552,
+        "name": "RATLAM"
+      },
+      {
+        "id": 556,
+        "name": "REWA"
+      },
+      {
+        "id": 565,
+        "name": "SAGAR"
+      },
+      {
+        "id": 583,
+        "name": "SATNA"
+      },
+      {
+        "id": 585,
+        "name": "SEHORE"
+      },
+      {
+        "id": 587,
+        "name": "SEONI"
+      },
+      {
+        "id": 590,
+        "name": "SHAHDOL"
+      },
+      {
+        "id": 593,
+        "name": "SHAJAPUR"
+      },
+      {
+        "id": 597,
+        "name": "SHEOPUR"
+      },
+      {
+        "id": 602,
+        "name": "SHIVPURI"
+      },
+      {
+        "id": 608,
+        "name": "SIDHI"
+      },
+      {
+        "id": 612,
+        "name": "SINGRAULI"
+      },
+      {
+        "id": 645,
+        "name": "SURGUJA"
+      },
+      {
+        "id": 664,
+        "name": "TIKAMGARH"
+      },
+      {
+        "id": 682,
+        "name": "UJJAIN"
+      },
+      {
+        "id": 684,
+        "name": "UMARIA"
+      },
+      {
+        "id": 698,
+        "name": "VIDISHA"
+      }
+    ],
+    "20": [
+      {
+        "id": 6,
+        "name": "AHMEDNAGAR"
+      },
+      {
+        "id": 9,
+        "name": "AKOLA"
+      },
+      {
+        "id": 20,
+        "name": "AMRAVATI"
+      },
+      {
+        "id": 36,
+        "name": "AURANGABAD"
+      },
+      {
+        "id": 73,
+        "name": "BEED"
+      },
+      {
+        "id": 84,
+        "name": "BHANDARA"
+      },
+      {
+        "id": 107,
+        "name": "BULDHANA"
+      },
+      {
+        "id": 121,
+        "name": "CHANDRAPUR"
+      },
+      {
+        "id": 176,
+        "name": "DHULE"
+      },
+      {
+        "id": 216,
+        "name": "GADCHIROLI"
+      },
+      {
+        "id": 236,
+        "name": "GONDIA"
+      },
+      {
+        "id": 259,
+        "name": "HINGOLI"
+      },
+      {
+        "id": 279,
+        "name": "JALGAON"
+      },
+      {
+        "id": 280,
+        "name": "JALNA"
+      },
+      {
+        "id": 363,
+        "name": "KOLHAPUR"
+      },
+      {
+        "id": 389,
+        "name": "LATUR"
+      },
+      {
+        "id": 447,
+        "name": "MUMBAI"
+      },
+      {
+        "id": 448,
+        "name": "MUMBAI SUBURBAN"
+      },
+      {
+        "id": 462,
+        "name": "NAGPUR"
+      },
+      {
+        "id": 469,
+        "name": "NANDED"
+      },
+      {
+        "id": 470,
+        "name": "NANDURBAR"
+      },
+      {
+        "id": 475,
+        "name": "NASHIK"
+      },
+      {
+        "id": 491,
+        "name": "OSMANABAD"
+      },
+      {
+        "id": 496,
+        "name": "PALGHAR"
+      },
+      {
+        "id": 504,
+        "name": "PARBHANI"
+      },
+      {
+        "id": 526,
+        "name": "PUNE"
+      },
+      {
+        "id": 534,
+        "name": "RAIGAD"
+      },
+      {
+        "id": 553,
+        "name": "RATNAGIRI"
+      },
+      {
+        "id": 576,
+        "name": "SANGLI"
+      },
+      {
+        "id": 582,
+        "name": "SATARA"
+      },
+      {
+        "id": 611,
+        "name": "SINDHUDURG"
+      },
+      {
+        "id": 622,
+        "name": "SOLAPUR"
+      },
+      {
+        "id": 653,
+        "name": "THANE"
+      },
+      {
+        "id": 708,
+        "name": "WARDHA"
+      },
+      {
+        "id": 709,
+        "name": "WASHIM"
+      },
+      {
+        "id": 727,
+        "name": "YAVATMAL"
+      }
+    ],
+    "21": [
+      {
+        "id": 99,
+        "name": "BISHNUPUR"
+      },
+      {
+        "id": 119,
+        "name": "CHANDEL"
+      },
+      {
+        "id": 140,
+        "name": "CHURACHANDPUR"
+      },
+      {
+        "id": 268,
+        "name": "IMPHAL EAST"
+      },
+      {
+        "id": 269,
+        "name": "IMPHAL WEST"
+      },
+      {
+        "id": 586,
+        "name": "SENAPATI"
+      },
+      {
+        "id": 647,
+        "name": "TAMENGLONG"
+      },
+      {
+        "id": 662,
+        "name": "THOUBAL"
+      },
+      {
+        "id": 683,
+        "name": "UKHRUL"
+      }
+    ],
+    "22": [
+      {
+        "id": 194,
+        "name": "EAST GARO HILLS"
+      },
+      {
+        "id": 196,
+        "name": "EAST JAINTIA HILLS"
+      },
+      {
+        "id": 198,
+        "name": "EAST KHASI HILLS"
+      },
+      {
+        "id": 487,
+        "name": "NORTH GARO HILLS"
+      },
+      {
+        "id": 558,
+        "name": "RI BHOI"
+      },
+      {
+        "id": 629,
+        "name": "SOUTH GARO HILLS"
+      },
+      {
+        "id": 633,
+        "name": "SOUTH WEST GARO HILLS"
+      },
+      {
+        "id": 634,
+        "name": "SOUTH WEST KHASI HILLS"
+      },
+      {
+        "id": 712,
+        "name": "WEST GARO HILLS"
+      },
+      {
+        "id": 714,
+        "name": "WEST JAINTIA HILLS"
+      },
+      {
+        "id": 717,
+        "name": "WEST KHASI HILLS"
+      }
+    ],
+    "23": [
+      {
+        "id": 7,
+        "name": "AIZAWL"
+      },
+      {
+        "id": 117,
+        "name": "CHAMPHAI"
+      },
+      {
+        "id": 362,
+        "name": "KOLASIB"
+      },
+      {
+        "id": 390,
+        "name": "LAWNGTLAI"
+      },
+      {
+        "id": 402,
+        "name": "LUNGLEI"
+      },
+      {
+        "id": 420,
+        "name": "MAMIT"
+      },
+      {
+        "id": 569,
+        "name": "SAIHA"
+      },
+      {
+        "id": 589,
+        "name": "SERCHHIP"
+      }
+    ],
+    "24": [
+      {
+        "id": 180,
+        "name": "DIMAPUR"
+      },
+      {
+        "id": 354,
+        "name": "KIPHIRE"
+      },
+      {
+        "id": 359,
+        "name": "KOHIMA"
+      },
+      {
+        "id": 396,
+        "name": "LONGLENG"
+      },
+      {
+        "id": 440,
+        "name": "MOKOKCHUNG"
+      },
+      {
+        "id": 441,
+        "name": "MON"
+      },
+      {
+        "id": 515,
+        "name": "PEREN"
+      },
+      {
+        "id": 516,
+        "name": "PHEK"
+      },
+      {
+        "id": 673,
+        "name": "TUENSANG"
+      },
+      {
+        "id": 721,
+        "name": "WOKHA"
+      },
+      {
+        "id": 728,
+        "name": "ZUNHEBOTO"
+      }
+    ],
+    "25": [
+      {
+        "id": 28,
+        "name": "ANUGUL"
+      },
+      {
+        "id": 47,
+        "name": "BALANGIR"
+      },
+      {
+        "id": 48,
+        "name": "BALESHWAR"
+      },
+      {
+        "id": 65,
+        "name": "BARGARH"
+      },
+      {
+        "id": 82,
+        "name": "BHADRAK"
+      },
+      {
+        "id": 104,
+        "name": "BOUDH"
+      },
+      {
+        "id": 145,
+        "name": "CUTTACK"
+      },
+      {
+        "id": 161,
+        "name": "DEOGARH"
+      },
+      {
+        "id": 173,
+        "name": "DHENKANAL"
+      },
+      {
+        "id": 217,
+        "name": "GAJAPATI"
+      },
+      {
+        "id": 221,
+        "name": "GANJAM"
+      },
+      {
+        "id": 272,
+        "name": "JAGATSINGHAPUR"
+      },
+      {
+        "id": 276,
+        "name": "JAJAPUR"
+      },
+      {
+        "id": 298,
+        "name": "JHARSUGUDA"
+      },
+      {
+        "id": 311,
+        "name": "KALAHANDI"
+      },
+      {
+        "id": 319,
+        "name": "KANDHAMAL"
+      },
+      {
+        "id": 342,
+        "name": "KENDRAPARA"
+      },
+      {
+        "id": 343,
+        "name": "KENDUJHAR"
+      },
+      {
+        "id": 350,
+        "name": "KHORDHA"
+      },
+      {
+        "id": 368,
+        "name": "KORAPUT"
+      },
+      {
+        "id": 419,
+        "name": "MALKANGIRI"
+      },
+      {
+        "id": 430,
+        "name": "MAYURBHANJ"
+      },
+      {
+        "id": 456,
+        "name": "NABARANGPUR"
+      },
+      {
+        "id": 479,
+        "name": "NAYAGARH"
+      },
+      {
+        "id": 490,
+        "name": "NUAPADA"
+      },
+      {
+        "id": 529,
+        "name": "PURI"
+      },
+      {
+        "id": 554,
+        "name": "RAYAGADA"
+      },
+      {
+        "id": 573,
+        "name": "SAMBALPUR"
+      },
+      {
+        "id": 624,
+        "name": "SONEPUR"
+      },
+      {
+        "id": 640,
+        "name": "SUNDARGARH"
+      }
+    ],
+    "26": [
+      {
+        "id": 328,
+        "name": "KARAIKAL"
+      },
+      {
+        "id": 410,
+        "name": "MAHE"
+      },
+      {
+        "id": 519,
+        "name": "PONDICHERRY"
+      },
+      {
+        "id": 726,
+        "name": "YANAM"
+      }
+    ],
+    "27": [
+      {
+        "id": 22,
+        "name": "AMRITSAR"
+      },
+      {
+        "id": 67,
+        "name": "BARNALA"
+      },
+      {
+        "id": 72,
+        "name": "BATHINDA"
+      },
+      {
+        "id": 207,
+        "name": "FARIDKOT"
+      },
+      {
+        "id": 210,
+        "name": "FATEHGARH SAHIB"
+      },
+      {
+        "id": 212,
+        "name": "FAZILKA"
+      },
+      {
+        "id": 214,
+        "name": "FIROZEPUR"
+      },
+      {
+        "id": 243,
+        "name": "GURDASPUR"
+      },
+      {
+        "id": 264,
+        "name": "HOSHIARPUR"
+      },
+      {
+        "id": 277,
+        "name": "JALANDHAR"
+      },
+      {
+        "id": 327,
+        "name": "KAPURTHALA"
+      },
+      {
+        "id": 401,
+        "name": "LUDHIANA"
+      },
+      {
+        "id": 426,
+        "name": "MANSA"
+      },
+      {
+        "id": 439,
+        "name": "MOGA"
+      },
+      {
+        "id": 445,
+        "name": "MUKTSAR"
+      },
+      {
+        "id": 478,
+        "name": "NAWANSHAHR"
+      },
+      {
+        "id": 509,
+        "name": "PATHANKOT"
+      },
+      {
+        "id": 510,
+        "name": "PATIALA"
+      },
+      {
+        "id": 562,
+        "name": "RUPNAGAR"
+      },
+      {
+        "id": 563,
+        "name": "S"
+      },
+      {
+        "id": 577,
+        "name": "SANGRUR"
+      },
+      {
+        "id": 591,
+        "name": "SHAHID BHAGAT SINGH NAGAR"
+      },
+      {
+        "id": 649,
+        "name": "TARN TARAN"
+      }
+    ],
+    "28": [
+      {
+        "id": 8,
+        "name": "AJMER"
+      },
+      {
+        "id": 16,
+        "name": "ALWAR"
+      },
+      {
+        "id": 60,
+        "name": "BANSWARA"
+      },
+      {
+        "id": 63,
+        "name": "BARAN"
+      },
+      {
+        "id": 66,
+        "name": "BARMER"
+      },
+      {
+        "id": 85,
+        "name": "BHARATPUR"
+      },
+      {
+        "id": 88,
+        "name": "BHILWARA"
+      },
+      {
+        "id": 96,
+        "name": "BIKANER"
+      },
+      {
+        "id": 108,
+        "name": "BUNDI"
+      },
+      {
+        "id": 139,
+        "name": "CHITTORGARH"
+      },
+      {
+        "id": 141,
+        "name": "CHURU"
+      },
+      {
+        "id": 157,
+        "name": "DAUSA"
+      },
+      {
+        "id": 174,
+        "name": "DHOLPUR"
+      },
+      {
+        "id": 189,
+        "name": "DUNGARPUR"
+      },
+      {
+        "id": 220,
+        "name": "GANGANAGAR"
+      },
+      {
+        "id": 250,
+        "name": "HANUMANGARH"
+      },
+      {
+        "id": 274,
+        "name": "JAIPUR"
+      },
+      {
+        "id": 275,
+        "name": "JAISALMER"
+      },
+      {
+        "id": 281,
+        "name": "JALORE"
+      },
+      {
+        "id": 295,
+        "name": "JHALAWAR"
+      },
+      {
+        "id": 299,
+        "name": "JHUNJHUNU"
+      },
+      {
+        "id": 301,
+        "name": "JODHPUR"
+      },
+      {
+        "id": 329,
+        "name": "KARAULI"
+      },
+      {
+        "id": 371,
+        "name": "KOTA"
+      },
+      {
+        "id": 461,
+        "name": "NAGAUR"
+      },
+      {
+        "id": 497,
+        "name": "PALI"
+      },
+      {
+        "id": 523,
+        "name": "PRATAPGARH"
+      },
+      {
+        "id": 543,
+        "name": "RAJSAMAND"
+      },
+      {
+        "id": 584,
+        "name": "SAWAI MADHOPUR"
+      },
+      {
+        "id": 609,
+        "name": "SIKAR"
+      },
+      {
+        "id": 614,
+        "name": "SIROHI"
+      },
+      {
+        "id": 672,
+        "name": "TONK"
+      },
+      {
+        "id": 677,
+        "name": "UDAIPUR"
+      }
+    ],
+    "29": [
+      {
+        "id": 193,
+        "name": "EAST DISTRICT"
+      },
+      {
+        "id": 486,
+        "name": "NORTH DISTRICT"
+      },
+      {
+        "id": 628,
+        "name": "SOUTH DISTRICT"
+      },
+      {
+        "id": 711,
+        "name": "WEST DISTRICT"
+      }
+    ],
+    "30": [
+      {
+        "id": 32,
+        "name": "ARIYALUR"
+      },
+      {
+        "id": 126,
+        "name": "CHENGALPATTU"
+      },
+      {
+        "id": 127,
+        "name": "CHENNAI"
+      },
+      {
+        "id": 142,
+        "name": "COIMBATORE"
+      },
+      {
+        "id": 144,
+        "name": "CUDDALORE"
+      },
+      {
+        "id": 170,
+        "name": "DHARMAPURI"
+      },
+      {
+        "id": 183,
+        "name": "DINDIGUL"
+      },
+      {
+        "id": 202,
+        "name": "ERODE"
+      },
+      {
+        "id": 313,
+        "name": "KALLAKURICHI"
+      },
+      {
+        "id": 318,
+        "name": "KANCHIPURAM"
+      },
+      {
+        "id": 323,
+        "name": "KANNIYAKUMARI"
+      },
+      {
+        "id": 335,
+        "name": "KARUR"
+      },
+      {
+        "id": 376,
+        "name": "KRISHNAGIRI"
+      },
+      {
+        "id": 405,
+        "name": "MADURAI"
+      },
+      {
+        "id": 459,
+        "name": "NAGAPATTINAM"
+      },
+      {
+        "id": 467,
+        "name": "NAMAKKAL"
+      },
+      {
+        "id": 514,
+        "name": "PERAMBALUR"
+      },
+      {
+        "id": 524,
+        "name": "PUDUKKOTTAI"
+      },
+      {
+        "id": 545,
+        "name": "RAMANATHAPURAM"
+      },
+      {
+        "id": 551,
+        "name": "RANIPET"
+      },
+      {
+        "id": 570,
+        "name": "SALEM"
+      },
+      {
+        "id": 618,
+        "name": "SIVAGANGA"
+      },
+      {
+        "id": 652,
+        "name": "TENKASI"
+      },
+      {
+        "id": 654,
+        "name": "THANJAVUR"
+      },
+      {
+        "id": 656,
+        "name": "THE NILGIRIS"
+      },
+      {
+        "id": 657,
+        "name": "THENI"
+      },
+      {
+        "id": 658,
+        "name": "THIRUVALLUR"
+      },
+      {
+        "id": 660,
+        "name": "THIRUVARUR"
+      },
+      {
+        "id": 661,
+        "name": "THOOTHUKUDI"
+      },
+      {
+        "id": 667,
+        "name": "TIRUCHIRAPPALLI"
+      },
+      {
+        "id": 668,
+        "name": "TIRUNELVELI"
+      },
+      {
+        "id": 669,
+        "name": "TIRUPATHUR"
+      },
+      {
+        "id": 670,
+        "name": "TIRUPPUR"
+      },
+      {
+        "id": 671,
+        "name": "TIRUVANNAMALAI"
+      },
+      {
+        "id": 676,
+        "name": "TUTICORIN"
+      },
+      {
+        "id": 697,
+        "name": "VELLORE"
+      },
+      {
+        "id": 701,
+        "name": "VILLUPURAM"
+      },
+      {
+        "id": 702,
+        "name": "VIRUDHUNAGAR"
+      }
+    ],
+    "31": [
+      {
+        "id": 2,
+        "name": "ADILABAD"
+      },
+      {
+        "id": 81,
+        "name": "BHADRADRI"
+      },
+      {
+        "id": 146,
+        "name": "DADRA AND NAGAR HAVELI"
+      },
+      {
+        "id": 149,
+        "name": "DAMAN"
+      },
+      {
+        "id": 185,
+        "name": "DIU"
+      },
+      {
+        "id": 249,
+        "name": "HANUMAKONDA"
+      },
+      {
+        "id": 273,
+        "name": "JAGITIAL"
+      },
+      {
+        "id": 287,
+        "name": "JANGOAN"
+      },
+      {
+        "id": 291,
+        "name": "JAYASHANKAR"
+      },
+      {
+        "id": 302,
+        "name": "JOGULAMBA"
+      },
+      {
+        "id": 314,
+        "name": "KAMAREDDY"
+      },
+      {
+        "id": 333,
+        "name": "KARIMNAGAR"
+      },
+      {
+        "id": 345,
+        "name": "KHAMMAM"
+      },
+      {
+        "id": 365,
+        "name": "KOMARAM BHEEM ASIFABAD"
+      },
+      {
+        "id": 406,
+        "name": "MAHABUBABAD"
+      },
+      {
+        "id": 409,
+        "name": "MAHBUBNAGAR"
+      },
+      {
+        "id": 421,
+        "name": "MANCHERIAL"
+      },
+      {
+        "id": 431,
+        "name": "MEDAK"
+      },
+      {
+        "id": 432,
+        "name": "MEDCHAL"
+      },
+      {
+        "id": 433,
+        "name": "MEDCHAL MALKAJGIRI"
+      },
+      {
+        "id": 446,
+        "name": "MULUGU"
+      },
+      {
+        "id": 460,
+        "name": "NAGARKURNOOL"
+      },
+      {
+        "id": 466,
+        "name": "NALGONDA"
+      },
+      {
+        "id": 471,
+        "name": "NARAYANAPET"
+      },
+      {
+        "id": 482,
+        "name": "NIRMAL"
+      },
+      {
+        "id": 484,
+        "name": "NIZAMABAD"
+      },
+      {
+        "id": 513,
+        "name": "PEDDAPALLI"
+      },
+      {
+        "id": 538,
+        "name": "RAJANNA"
+      },
+      {
+        "id": 550,
+        "name": "RANGAREDDI"
+      },
+      {
+        "id": 575,
+        "name": "SANGAREDDY"
+      },
+      {
+        "id": 607,
+        "name": "SIDDIPET"
+      },
+      {
+        "id": 646,
+        "name": "SURYAPET"
+      },
+      {
+        "id": 655,
+        "name": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU"
+      },
+      {
+        "id": 700,
+        "name": "VIKARABAD"
+      },
+      {
+        "id": 705,
+        "name": "WANAPARTHY"
+      },
+      {
+        "id": 706,
+        "name": "WARANGAL"
+      },
+      {
+        "id": 707,
+        "name": "WARANGAL URBAN"
+      },
+      {
+        "id": 722,
+        "name": "YADADRI"
+      }
+    ],
+    "32": [
+      {
+        "id": 166,
+        "name": "DHALAI"
+      },
+      {
+        "id": 234,
+        "name": "GOMATI"
+      },
+      {
+        "id": 351,
+        "name": "KHOWAI"
+      },
+      {
+        "id": 489,
+        "name": "NORTH TRIPURA"
+      },
+      {
+        "id": 588,
+        "name": "SEPAHIJALA"
+      },
+      {
+        "id": 632,
+        "name": "SOUTH TRIPURA"
+      },
+      {
+        "id": 686,
+        "name": "UNAKOTI"
+      },
+      {
+        "id": 720,
+        "name": "WEST TRIPURA"
+      }
+    ],
+    "33": [
+      {
+        "id": 4,
+        "name": "AGRA"
+      },
+      {
+        "id": 11,
+        "name": "ALIGARH"
+      },
+      {
+        "id": 14,
+        "name": "ALLAHABAD"
+      },
+      {
+        "id": 15,
+        "name": "ALMORA"
+      },
+      {
+        "id": 18,
+        "name": "AMBEDKAR NAGAR"
+      },
+      {
+        "id": 19,
+        "name": "AMETHI"
+      },
+      {
+        "id": 23,
+        "name": "AMROHA"
+      },
+      {
+        "id": 35,
+        "name": "AURAIYA"
+      },
+      {
+        "id": 37,
+        "name": "AZAMGARH"
+      },
+      {
+        "id": 42,
+        "name": "BAGESHWAR"
+      },
+      {
+        "id": 43,
+        "name": "BAGHPAT"
+      },
+      {
+        "id": 44,
+        "name": "BAHRAICH"
+      },
+      {
+        "id": 50,
+        "name": "BALLIA"
+      },
+      {
+        "id": 53,
+        "name": "BALRAMPUR"
+      },
+      {
+        "id": 55,
+        "name": "BANDA"
+      },
+      {
+        "id": 61,
+        "name": "BARABANKI"
+      },
+      {
+        "id": 64,
+        "name": "BAREILLY"
+      },
+      {
+        "id": 71,
+        "name": "BASTI"
+      },
+      {
+        "id": 95,
+        "name": "BIJNOR"
+      },
+      {
+        "id": 105,
+        "name": "BUDAUN"
+      },
+      {
+        "id": 106,
+        "name": "BULANDSHAHR"
+      },
+      {
+        "id": 115,
+        "name": "CHAMOLI"
+      },
+      {
+        "id": 116,
+        "name": "CHAMPAWAT"
+      },
+      {
+        "id": 118,
+        "name": "CHANDAULI"
+      },
+      {
+        "id": 137,
+        "name": "CHITRAKOOT"
+      },
+      {
+        "id": 159,
+        "name": "DEHRADUN"
+      },
+      {
+        "id": 163,
+        "name": "DEORIA"
+      },
+      {
+        "id": 203,
+        "name": "ETAH"
+      },
+      {
+        "id": 204,
+        "name": "ETAWAH"
+      },
+      {
+        "id": 205,
+        "name": "FAIZABAD"
+      },
+      {
+        "id": 208,
+        "name": "FARRUKHABAD"
+      },
+      {
+        "id": 211,
+        "name": "FATEHPUR"
+      },
+      {
+        "id": 213,
+        "name": "FIROZABAD"
+      },
+      {
+        "id": 225,
+        "name": "GAUTAM BUDDHA NAGAR"
+      },
+      {
+        "id": 227,
+        "name": "GHAZIABAD"
+      },
+      {
+        "id": 228,
+        "name": "GHAZIPUR"
+      },
+      {
+        "id": 235,
+        "name": "GONDA"
+      },
+      {
+        "id": 238,
+        "name": "GORAKHPUR"
+      },
+      {
+        "id": 248,
+        "name": "HAMIRPUR"
+      },
+      {
+        "id": 251,
+        "name": "HAPUR"
+      },
+      {
+        "id": 253,
+        "name": "HARDOI"
+      },
+      {
+        "id": 254,
+        "name": "HARIDWAR"
+      },
+      {
+        "id": 256,
+        "name": "HATHRAS"
+      },
+      {
+        "id": 278,
+        "name": "JALAUN"
+      },
+      {
+        "id": 290,
+        "name": "JAUNPUR"
+      },
+      {
+        "id": 296,
+        "name": "JHANSI"
+      },
+      {
+        "id": 322,
+        "name": "KANNAUJ"
+      },
+      {
+        "id": 325,
+        "name": "KANPUR DEHAT"
+      },
+      {
+        "id": 326,
+        "name": "KANPUR NAGAR"
+      },
+      {
+        "id": 337,
+        "name": "KASGANJ"
+      },
+      {
+        "id": 341,
+        "name": "KAUSHAMBI"
+      },
+      {
+        "id": 349,
+        "name": "KHERI"
+      },
+      {
+        "id": 383,
+        "name": "KUSHI NAGAR"
+      },
+      {
+        "id": 387,
+        "name": "LALITPUR"
+      },
+      {
+        "id": 400,
+        "name": "LUCKNOW"
+      },
+      {
+        "id": 407,
+        "name": "MAHARAJGANJ"
+      },
+      {
+        "id": 414,
+        "name": "MAHOBA"
+      },
+      {
+        "id": 415,
+        "name": "MAINPURI"
+      },
+      {
+        "id": 428,
+        "name": "MATHURA"
+      },
+      {
+        "id": 429,
+        "name": "MAU"
+      },
+      {
+        "id": 436,
+        "name": "MEERUT"
+      },
+      {
+        "id": 438,
+        "name": "MIRZAPUR"
+      },
+      {
+        "id": 442,
+        "name": "MORADABAD"
+      },
+      {
+        "id": 452,
+        "name": "MUZAFFARNAGAR"
+      },
+      {
+        "id": 463,
+        "name": "NAINITAL"
+      },
+      {
+        "id": 512,
+        "name": "PAURI GARHWAL"
+      },
+      {
+        "id": 517,
+        "name": "PILIBHIT"
+      },
+      {
+        "id": 518,
+        "name": "PITHORAGARH"
+      },
+      {
+        "id": 523,
+        "name": "PRATAPGARH"
+      },
+      {
+        "id": 532,
+        "name": "RAE BARELI"
+      },
+      {
+        "id": 548,
+        "name": "RAMPUR"
+      },
+      {
+        "id": 561,
+        "name": "RUDRA PRAYAG"
+      },
+      {
+        "id": 566,
+        "name": "SAHARANPUR"
+      },
+      {
+        "id": 574,
+        "name": "SAMBHAL"
+      },
+      {
+        "id": 578,
+        "name": "SANT KABEER NAGAR"
+      },
+      {
+        "id": 579,
+        "name": "SANT RAVIDAS NAGAR"
+      },
+      {
+        "id": 592,
+        "name": "SHAHJAHANPUR"
+      },
+      {
+        "id": 594,
+        "name": "SHAMLI"
+      },
+      {
+        "id": 604,
+        "name": "SHRAVASTI"
+      },
+      {
+        "id": 606,
+        "name": "SIDDHARTH NAGAR"
+      },
+      {
+        "id": 617,
+        "name": "SITAPUR"
+      },
+      {
+        "id": 623,
+        "name": "SONBHADRA"
+      },
+      {
+        "id": 639,
+        "name": "SULTANPUR"
+      },
+      {
+        "id": 651,
+        "name": "TEHRI GARHWAL"
+      },
+      {
+        "id": 679,
+        "name": "UDAM SINGH NAGAR"
+      },
+      {
+        "id": 687,
+        "name": "UNNAO"
+      },
+      {
+        "id": 691,
+        "name": "UTTAR KASHI"
+      },
+      {
+        "id": 696,
+        "name": "VARANASI"
+      }
+    ],
+    "34": [
+      {
+        "id": 15,
+        "name": "ALMORA"
+      },
+      {
+        "id": 42,
+        "name": "BAGESHWAR"
+      },
+      {
+        "id": 115,
+        "name": "CHAMOLI"
+      },
+      {
+        "id": 116,
+        "name": "CHAMPAWAT"
+      },
+      {
+        "id": 159,
+        "name": "DEHRADUN"
+      },
+      {
+        "id": 254,
+        "name": "HARIDWAR"
+      },
+      {
+        "id": 463,
+        "name": "NAINITAL"
+      },
+      {
+        "id": 512,
+        "name": "PAURI GARHWAL"
+      },
+      {
+        "id": 518,
+        "name": "PITHORAGARH"
+      },
+      {
+        "id": 561,
+        "name": "RUDRA PRAYAG"
+      },
+      {
+        "id": 651,
+        "name": "TEHRI GARHWAL"
+      },
+      {
+        "id": 679,
+        "name": "UDAM SINGH NAGAR"
+      },
+      {
+        "id": 691,
+        "name": "UTTAR KASHI"
+      }
+    ],
+    "35": [
+      {
+        "id": 0,
+        "name": "24 PARAGANAS NORTH"
+      },
+      {
+        "id": 1,
+        "name": "24 PARAGANAS SOUTH"
+      },
+      {
+        "id": 12,
+        "name": "ALIPURDUAR"
+      },
+      {
+        "id": 59,
+        "name": "BANKURA"
+      },
+      {
+        "id": 98,
+        "name": "BIRBHUM"
+      },
+      {
+        "id": 143,
+        "name": "COOCHBEHAR"
+      },
+      {
+        "id": 154,
+        "name": "DARJEELING"
+      },
+      {
+        "id": 181,
+        "name": "DINAJPUR DAKSHIN"
+      },
+      {
+        "id": 182,
+        "name": "DINAJPUR UTTAR"
+      },
+      {
+        "id": 262,
+        "name": "HOOGHLY"
+      },
+      {
+        "id": 265,
+        "name": "HOWRAH"
+      },
+      {
+        "id": 282,
+        "name": "JALPAIGURI"
+      },
+      {
+        "id": 297,
+        "name": "JHARGRAM"
+      },
+      {
+        "id": 312,
+        "name": "KALIMPONG"
+      },
+      {
+        "id": 418,
+        "name": "MALDAH"
+      },
+      {
+        "id": 434,
+        "name": "MEDINIPUR EAST"
+      },
+      {
+        "id": 435,
+        "name": "MEDINIPUR WEST"
+      },
+      {
+        "id": 451,
+        "name": "MURSHIDABAD"
+      },
+      {
+        "id": 457,
+        "name": "NADIA"
+      },
+      {
+        "id": 505,
+        "name": "PASCHIM BARDHAMAN"
+      },
+      {
+        "id": 527,
+        "name": "PURBA BARDHAMAN"
+      },
+      {
+        "id": 531,
+        "name": "PURULIA"
+      }
+    ]
+  }
+}

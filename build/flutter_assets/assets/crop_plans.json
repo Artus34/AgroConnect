@@ -1,0 +1,2057 @@
+{
+  "Pearl Millet (Bajra)": {
+    "displayName": "Pearl Millet (Bajra)",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Sowing",
+        "duration": "Approx. 3-4 days",
+        "description": "Plough the field 2-3 times to obtain fine tilth. Mix 8-10 tons of well-decomposed FYM per acre. Level the field for uniform moisture. Sow seeds at 30-45 cm row spacing and 10-15 cm plant spacing. Seed rate: 4-5 kg per acre. Treat seeds with Thiram or Carbendazim @3 g/kg to prevent fungal attack.",
+        "completion_check": "Are the seeds sown evenly at recommended spacing and depth?",
+        "highlights": [
+          "Optimum sowing depth: 2-3 cm for uniform germination.",
+          "Early land preparation helps control initial weeds.",
+          "Ensure good soil moisture at sowing."
+        ]
+      },
+      {
+        "title": "Part 2: Week 1-2 – Germination & Seedling Establishment",
+        "duration": "Approx. 2 weeks",
+        "description": "Seeds germinate in 5-7 days. Maintain light irrigation if required. Avoid waterlogging. Monitor for uniform stand and thin weak seedlings.",
+        "completion_check": "Have seedlings emerged evenly and are 3-4 inches tall?",
+        "highlights": [
+          "Thin plants to maintain single healthy plant per stand.",
+          "Watch for cutworms and early pests.",
+          "Apply neem-based pesticide if shoot damage is visible."
+        ]
+      },
+      {
+        "title": "Part 3: Week 3-5 – Early Growth & First Weeding",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Perform the first intercultural weeding to remove competing weeds. Apply first dose of nitrogen fertilizer (25 kg N per acre) as side-dressing. Maintain soil moisture to support vegetative growth.",
+        "completion_check": "Has first weeding and fertilizer been applied correctly?",
+        "highlights": [
+          "Use hand hoe or wheel hoe for effective weed control.",
+          "Do not disturb roots while hoeing.",
+          "Monitor for early shoot fly attack."
+        ]
+      },
+      {
+        "title": "Part 4: Week 6-8 – Tillering & Vegetative Stage",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Plants actively tiller. Apply second dose of nitrogen (20 kg N per acre) and 10 kg K₂O per acre. Maintain clean fields and monitor for pests like stem borer.",
+        "completion_check": "Are plants tall with multiple healthy tillers?",
+        "highlights": [
+          "Apply fertilizer near the base and irrigate lightly.",
+          "Check for aphids and midge damage.",
+          "Maintain 5-7 cm soil moisture in rainfed fields."
+        ]
+      },
+      {
+        "title": "Part 5: Week 9-11 – Booting & Panicle Initiation",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Panicle initiation begins. Maintain soil moisture and nutrient supply. Avoid drought stress at this stage to ensure proper grain set.",
+        "completion_check": "Are panicles emerging uniformly and plants deep green?",
+        "highlights": [
+          "Apply 10-15 kg N as top dressing if plants appear pale.",
+          "Protect from stem borer and midge with recommended insecticides.",
+          "Keep field weed-free to prevent competition for nutrients."
+        ]
+      },
+      {
+        "title": "Part 6: Week 12-14 – Flowering Stage",
+        "duration": "Approx. 2 weeks",
+        "description": "Ensure optimal moisture during flowering. Avoid fertilizer sprays during anthesis. Monitor pollination for uniform grain formation.",
+        "completion_check": "Are flowering panicles fully open and pollinating?",
+        "highlights": [
+          "Avoid nitrogen application — prevents lodging.",
+          "Inspect for midge and aphid attacks and treat promptly.",
+          "Maintain shallow water layer if irrigated."
+        ]
+      },
+      {
+        "title": "Part 7: Week 15-17 – Grain Filling & Maturity",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Panicles begin grain filling. Reduce irrigation gradually. Ensure balanced nutrients for proper grain development. Avoid pest infestation during this stage.",
+        "completion_check": "Are grains firm, filling, and turning golden?",
+        "highlights": [
+          "Stop irrigation 10-12 days before harvest to allow grain hardening.",
+          "Protect from earhead midge and grain mold under humid conditions.",
+          "Bird control may be needed in open fields."
+        ]
+      },
+      {
+        "title": "Part 8: Week 18-20 – Harvesting",
+        "duration": "Approx. 1-2 weeks",
+        "description": "Harvest when grains are hard and moisture content is ~20%. Cut earheads or whole plant depending on use (grain/fodder).",
+        "completion_check": "Are grains hardened and ready for threshing?",
+        "highlights": [
+          "Harvest in clear weather to prevent fungal attack.",
+          "Thresh soon after harvesting.",
+          "Avoid over-drying to prevent grain breakage."
+        ]
+      },
+      {
+        "title": "Part 9: Post-Harvest Drying & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Clean, sun-dry, and store grains at 12-14% moisture in aerated conditions to prevent pests and molds.",
+        "completion_check": "Are grains properly dried and safely stored?",
+        "highlights": [
+          "Store in gunny or HDPE bags on raised platforms.",
+          "Use neem leaves or natural repellents if storing long-term.",
+          "Avoid damp and dark storage spaces."
+        ]
+      },
+      {
+        "title": "Part 10: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout the Crop Cycle",
+        "description": "Monitor for major pests like shoot fly, stem borer, midge, and aphids. Diseases include downy mildew, smut, and ergot. Apply integrated pest management (IPM) practices as needed.",
+        "completion_check": "Is the field free from major pest and disease outbreaks?",
+        "highlights": [
+          "Shoot Fly: Deadheart in seedlings — use seed treatment with Imidacloprid.",
+          "Stem Borer: Leaf whorl damage — remove infested shoots.",
+          "Downy Mildew: Apply fungicide seed treatment if prevalent.",
+          "Rotate Bajra with legumes to reduce soil-borne pests."
+        ]
+      }
+    ]
+  },
+  "Banana": {
+    "displayName": "Banana",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Sucker Selection",
+        "duration": "Approx. 5–7 days",
+        "description": "Plough the field 2–3 times to get fine tilth. Incorporate 10–12 tons of well-decomposed FYM per acre. Select healthy, disease-free suckers for planting, preferably 10–12 months old with 2–3 functional leaves.",
+        "completion_check": "Is the land prepared and suckers selected properly?",
+        "highlights": [
+          "Well-drained loamy soil with pH 5.5–6.5 is ideal.",
+          "Healthy suckers ensure faster establishment and higher yield.",
+          "Organic matter improves soil structure and fertility."
+        ]
+      },
+      {
+        "title": "Part 2: Planting",
+        "duration": "Approx. 2–3 days",
+        "description": "Plant suckers in pits of 60×60×60 cm or trenches filled with topsoil and compost. Maintain spacing of 2.5–3 m between rows and 2–2.5 m between plants. Ensure proper alignment of the corm.",
+        "completion_check": "Are suckers planted at proper spacing and depth?",
+        "highlights": [
+          "Plant at the beginning of rainy season or with adequate irrigation.",
+          "Correct planting depth prevents root suffocation and promotes establishment.",
+          "Proper spacing ensures air circulation and light penetration."
+        ]
+      },
+      {
+        "title": "Part 3: Week 1–8 – Establishment & Initial Care",
+        "duration": "Approx. 2 months",
+        "description": "Maintain uniform soil moisture with frequent light irrigation. Apply starter NPK fertilizer (20–25 kg N, 10 kg P₂O₅, 10 kg K₂O per acre) lightly around plants. Remove weeds manually.",
+        "completion_check": "Are suckers established and free from weeds?",
+        "highlights": [
+          "Avoid waterlogging to prevent root rot.",
+          "Mulching conserves moisture and suppresses weeds.",
+          "Early nutrient supply promotes strong vegetative growth."
+        ]
+      },
+      {
+        "title": "Part 4: Week 9–16 – Vegetative Growth & Fertilization",
+        "duration": "Approx. 2 months",
+        "description": "Apply NPK fertilizer (40–50 kg N, 20 kg P₂O₅, 40–50 kg K₂O per acre) in split doses. Remove excess suckers to maintain one main plant per pit. Support tall plants with props to prevent lodging.",
+        "completion_check": "Has fertilizer application and sucker management been done?",
+        "highlights": [
+          "Nitrogen supports leaf growth, potassium enhances fruit quality.",
+          "Removing extra suckers reduces competition for nutrients.",
+          "Props prevent wind or rain damage to tall plants."
+        ]
+      },
+      {
+        "title": "Part 5: Week 17–24 – Flower Initiation & Bunch Development",
+        "duration": "Approx. 2 months",
+        "description": "Banana plants start producing the inflorescence. Maintain adequate moisture. Apply potassium-rich fertilizer to support bunch development. Protect flower buds from insects and birds using nets or covers.",
+        "completion_check": "Are flower buds emerging and bunches developing properly?",
+        "highlights": [
+          "Potassium enhances fruit size, weight, and shelf life.",
+          "Regular irrigation prevents moisture stress during flowering.",
+          "Flower protection reduces physical damage and pest attacks."
+        ]
+      },
+      {
+        "title": "Part 6: Week 25–40 – Fruit Filling & Maturation",
+        "duration": "Approx. 4 months",
+        "description": "Fruits fill and mature. Maintain regular irrigation, mulching, and nutrient supply. Apply foliar sprays of micronutrients like boron and zinc if deficient. Monitor for pests such as banana weevil, aphids, and nematodes, and diseases like Panama wilt and Sigatoka.",
+        "completion_check": "Are fruits filling properly and plants healthy?",
+        "highlights": [
+          "Potassium-rich nutrition enhances bunch weight and fruit quality.",
+          "Regular monitoring prevents yield loss from pests and diseases.",
+          "Mulching conserves moisture and moderates soil temperature."
+        ]
+      },
+      {
+        "title": "Part 7: Pre-Harvest & Harvesting",
+        "duration": "Approx. 1–2 weeks",
+        "description": "Stop heavy fertilization 2–3 weeks before harvest. Harvest fruits when they reach appropriate size, fullness, and color. Use poles or knives to cut bunches carefully. Handle fruits gently to avoid bruising.",
+        "completion_check": "Are bananas harvested at optimal maturity and handled properly?",
+        "highlights": [
+          "Harvest at correct maturity to ensure optimal taste and shelf life.",
+          "Avoid mechanical damage to maintain fruit quality.",
+          "Timely harvest reduces pest attacks and fruit drop."
+        ]
+      },
+      {
+        "title": "Part 8: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Transport harvested bunches to shaded, ventilated areas. For longer storage or ripening, maintain temperature 14–18°C. Inspect for pests, bruises, or fungal infections.",
+        "completion_check": "Are harvested bananas stored or transported correctly?",
+        "highlights": [
+          "Shaded and ventilated storage reduces spoilage.",
+          "Temperature control extends shelf life for market or ripening.",
+          "Regular inspection prevents post-harvest losses."
+        ]
+      },
+      {
+        "title": "Part 9: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout Crop Cycle",
+        "description": "Monitor for banana weevil, aphids, nematodes; and diseases like Panama wilt, Sigatoka, and bunch rot. Apply integrated pest management (IPM) practices and fungicides as necessary.",
+        "completion_check": "Is the banana crop free from major pest and disease outbreaks?",
+        "highlights": [
+          "Regular scouting prevents severe infestations.",
+          "Sanitation and removing infected plants reduce disease spread.",
+          "Use resistant varieties and biological control whenever possible."
+        ]
+      }
+    ]
+  },
+  "Black Gram (Urad)": {
+    "displayName": "Black Gram (Urad)",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Seed Treatment",
+        "duration": "Approx. 2-3 days",
+        "description": "Plough the field 2-3 times to obtain a fine tilth. Incorporate 4-5 tons of FYM per acre. Treat seeds with Rhizobium culture or fungicide (Thiram @3 g/kg) to prevent fungal infections and enhance nodulation.",
+        "completion_check": "Is the field prepared and seeds treated for sowing?",
+        "highlights": [
+          "Well-drained sandy loam or loamy soils with pH 6-7.5 are ideal.",
+          "Good land preparation ensures uniform seed-soil contact.",
+          "Seed treatment improves early growth and nitrogen fixation."
+        ]
+      },
+      {
+        "title": "Part 2: Sowing",
+        "duration": "Approx. 1-2 days",
+        "description": "Sow seeds at 30-45 cm row spacing and 10-15 cm plant spacing. Seed rate: 15–20 kg per acre. Sow at 2–3 cm depth. Prefer early Kharif or Rabi season depending on local rainfall.",
+        "completion_check": "Are seeds sown at correct spacing and depth?",
+        "highlights": [
+          "Uniform sowing reduces competition and ensures better yield.",
+          "Avoid waterlogged soils; black gram is sensitive to excess moisture.",
+          "Early sowing ensures full flowering and pod formation."
+        ]
+      },
+      {
+        "title": "Part 3: Week 1-2 – Germination & Seedling Establishment",
+        "duration": "Approx. 2 weeks",
+        "description": "Seeds germinate within 5–7 days. Provide light irrigation to maintain soil moisture. Remove early weeds manually. Observe uniform emergence and healthy seedlings.",
+        "completion_check": "Have seedlings emerged uniformly and grown to 3–4 inches?",
+        "highlights": [
+          "Avoid waterlogging; seedlings are sensitive to excess moisture.",
+          "Thin weak seedlings to maintain optimal plant population.",
+          "Monitor for damping-off disease and treat if necessary."
+        ]
+      },
+      {
+        "title": "Part 4: Week 3-5 – Vegetative Growth & Fertilizer Application",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Apply phosphorus (20 kg P₂O₅/acre) and potassium (10 kg K₂O/acre) if soil is deficient. Maintain weed-free field and proper soil moisture for vigorous growth.",
+        "completion_check": "Has fertilizer application and weeding been done?",
+        "highlights": [
+          "Phosphorus promotes root growth and nodulation.",
+          "Weeding prevents competition and improves nutrient availability.",
+          "Scout for early pests like aphids or leaf miner."
+        ]
+      },
+      {
+        "title": "Part 5: Week 6-7 – Flowering Initiation",
+        "duration": "Approx. 2 weeks",
+        "description": "Flowering begins. Maintain adequate soil moisture. Monitor for pests such as pod borer and aphids. Avoid water stress during flowering for proper pod set.",
+        "completion_check": "Are flowers emerging uniformly and plants healthy?",
+        "highlights": [
+          "Critical stage for pod formation and yield.",
+          "Use neem-based sprays or bio-pesticides for pest control.",
+          "Keep fields weed-free to reduce nutrient competition."
+        ]
+      },
+      {
+        "title": "Part 6: Week 8-10 – Pod Formation & Grain Filling",
+        "duration": "Approx. 3 weeks",
+        "description": "Pods develop and grains start filling. Apply additional potassium (10–15 kg K₂O/acre) if deficient. Maintain adequate moisture for proper grain filling.",
+        "completion_check": "Are pods forming and grains filling properly?",
+        "highlights": [
+          "Protect crop from pod borer, aphids, and leaf miner.",
+          "Avoid waterlogging; intermittent moisture is preferred.",
+          "Ensure nutrient supply for optimal grain filling."
+        ]
+      },
+      {
+        "title": "Part 7: Week 11-12 – Maturity",
+        "duration": "Approx. 2 weeks",
+        "description": "Stop irrigation 10–12 days before harvest. Allow pods to mature and grains to harden. Monitor for late-stage pests or fungal infections.",
+        "completion_check": "Are pods turning yellow and grains hardened?",
+        "highlights": [
+          "Harvest when 90% of pods are yellow-brown and dry.",
+          "Avoid premature harvesting; reduces seed weight.",
+          "Field sanitation reduces post-harvest pest problems."
+        ]
+      },
+      {
+        "title": "Part 8: Week 13 – Harvesting",
+        "duration": "Approx. 1 week",
+        "description": "Harvest manually or mechanically when pods are dry and grains hard. Cut plants at base, sun-dry, and thresh carefully.",
+        "completion_check": "Has the crop been harvested and grains dried?",
+        "highlights": [
+          "Sun-dry harvested pods to 12% moisture before storage.",
+          "Avoid harvesting during rain to prevent mold growth.",
+          "Handle pods gently to avoid shattering."
+        ]
+      },
+      {
+        "title": "Part 9: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Clean, dry, and store grains in moisture-free, aerated conditions. Use jute or HDPE bags on raised platforms. Inspect stored grains regularly for pests.",
+        "completion_check": "Are grains properly dried and safely stored?",
+        "highlights": [
+          "Avoid damp storage to prevent mold or insect infestation.",
+          "Apply neem leaves or natural repellents for long-term storage.",
+          "Label bags with variety and harvest date."
+        ]
+      },
+      {
+        "title": "Part 10: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout the Crop Cycle",
+        "description": "Monitor for major pests like pod borer, aphids, leaf miner, and diseases such as powdery mildew, leaf spot, and root rot. Apply integrated pest and disease management practices as required.",
+        "completion_check": "Is the field free from major pest and disease outbreaks?",
+        "highlights": [
+          "Seed treatment reduces early fungal infection.",
+          "Regular scouting prevents severe pest outbreaks.",
+          "Crop rotation with cereals and legumes reduces soil-borne pests.",
+          "Use resistant varieties whenever possible."
+        ]
+      }
+    ]
+  },
+  "Chickpea (Gram)": {
+    "displayName": "Chickpea (Gram)",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Seed Treatment",
+        "duration": "Approx. 3-4 days",
+        "description": "Plough the field 2-3 times to achieve a fine tilth. Incorporate 5-6 tons of FYM per acre. Level the field properly. Treat seeds with Rhizobium culture or fungicide (Thiram @3 g/kg) to prevent fungal diseases.",
+        "completion_check": "Has the field been prepared and seeds treated for sowing?",
+        "highlights": [
+          "Soil type: well-drained loamy to sandy-loam soils with pH 6-8.",
+          "Good land preparation improves seed-soil contact.",
+          "Seed treatment enhances nodulation and early growth."
+        ]
+      },
+      {
+        "title": "Part 2: Sowing",
+        "duration": "Approx. 1-2 days",
+        "description": "Sow seeds at 60 cm row spacing and 10 cm between plants. Use 60-80 kg seed per hectare. Sow at 5-6 cm depth for proper germination. Prefer early Rabi season for better yield.",
+        "completion_check": "Are seeds sown at correct spacing and depth?",
+        "highlights": [
+          "Ensure uniform spacing to reduce competition.",
+          "Avoid sowing in waterlogged soils.",
+          "Early sowing ensures proper flowering and pod set."
+        ]
+      },
+      {
+        "title": "Part 3: Week 1-3 – Germination & Seedling Establishment",
+        "duration": "Approx. 3 weeks",
+        "description": "Germination occurs within 7-10 days. Provide light irrigation if soil is dry. Remove weeds manually to prevent competition. Ensure seedlings are healthy and uniformly established.",
+        "completion_check": "Have seedlings emerged uniformly and grown to 3-4 inches?",
+        "highlights": [
+          "Avoid overwatering; chickpea is sensitive to waterlogging.",
+          "Monitor for damping-off disease and treat if needed.",
+          "Thin weak seedlings for optimal plant population."
+        ]
+      },
+      {
+        "title": "Part 4: Week 4-6 – Vegetative Growth & First Fertilizer",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Apply first dose of nitrogen (10-15 kg/ha) and phosphorus (20-25 kg/ha) if soil is deficient. Keep fields weed-free and provide light irrigation as needed.",
+        "completion_check": "Has first fertilization and weeding been completed?",
+        "highlights": [
+          "Nitrogen helps vegetative growth; phosphorus supports root development.",
+          "Manual weeding preferred to protect nodules.",
+          "Inspect for early pest infestation like aphids."
+        ]
+      },
+      {
+        "title": "Part 5: Week 7-9 – Flowering Initiation",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Flowering begins. Ensure proper soil moisture and nutrient availability. Avoid water stress. Monitor for pests such as pod borer and aphids.",
+        "completion_check": "Are flowers emerging and plants healthy?",
+        "highlights": [
+          "Critical stage for pod set; stress reduces yield.",
+          "Spray recommended insecticides or neem oil for pest control.",
+          "Maintain good weed management."
+        ]
+      },
+      {
+        "title": "Part 6: Week 10-12 – Pod Formation & Grain Filling",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Monitor pod development and maintain soil moisture. Apply potassium fertilizer (20 kg K₂O/ha) if soil deficient. Continue pest and disease surveillance.",
+        "completion_check": "Are pods developing uniformly and filling properly?",
+        "highlights": [
+          "Avoid waterlogging; chickpea roots are sensitive.",
+          "Protect from pod borer with light traps or neem sprays.",
+          "Ensure nutrients are sufficient for grain filling."
+        ]
+      },
+      {
+        "title": "Part 7: Week 13-15 – Maturity",
+        "duration": "Approx. 2 weeks",
+        "description": "Stop irrigation 10-12 days before harvest. Allow pods to mature and grains to harden. Monitor for pest attack in late stage.",
+        "completion_check": "Are grains hard, pods yellowing, and ready for harvest?",
+        "highlights": [
+          "Chickpea is ready when 90% of pods turn golden brown.",
+          "Avoid early harvesting to prevent low grain weight.",
+          "Field sanitation reduces post-harvest pest issues."
+        ]
+      },
+      {
+        "title": "Part 8: Week 16-17 – Harvesting",
+        "duration": "Approx. 1-2 weeks",
+        "description": "Harvest manually or mechanically when grains are dry and pods shatter easily. Cut plants at base, thresh, and dry grains properly.",
+        "completion_check": "Has the crop been harvested and grains dried?",
+        "highlights": [
+          "Sun-dry grains to 12% moisture for safe storage.",
+          "Avoid harvesting during rain to prevent fungal growth.",
+          "Use threshing carefully to prevent seed damage."
+        ]
+      },
+      {
+        "title": "Part 9: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Clean, dry, and store grains in moisture-free conditions. Use jute or HDPE bags on raised platforms. Inspect stored grains regularly for pests.",
+        "completion_check": "Are grains cleaned, dried, and safely stored?",
+        "highlights": [
+          "Avoid damp storage to prevent mold.",
+          "Apply natural repellents or fumigation if storing long-term.",
+          "Label bags with variety and harvest date for record-keeping."
+        ]
+      },
+      {
+        "title": "Part 10: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout the Crop Cycle",
+        "description": "Monitor for major pests: pod borer, aphids, leaf miner, and diseases: Fusarium wilt, Ascochyta blight, root rot. Apply integrated pest and disease management practices.",
+        "completion_check": "Is the field free from major pest and disease damage?",
+        "highlights": [
+          "Seed treatment reduces early fungal infection.",
+          "Regular scouting prevents severe pest outbreaks.",
+          "Crop rotation with cereals and legumes reduces soil-borne diseases.",
+          "Use resistant varieties when available."
+        ]
+      }
+    ]
+  },
+  "Cotton": {
+    "displayName": "Cotton",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Seed Treatment",
+        "duration": "Approx. 3-5 days",
+        "description": "Plough the field 2-3 times to achieve fine tilth. Incorporate 8-10 tons of FYM per acre. Treat seeds with fungicide (Thiram @2–3 g/kg) to prevent seed-borne diseases and enhance germination.",
+        "completion_check": "Is the field prepared and seeds treated for sowing?",
+        "highlights": [
+          "Well-drained loamy soils with pH 6–7.5 are ideal.",
+          "Good land preparation ensures uniform seed-soil contact.",
+          "Seed treatment prevents early fungal infections."
+        ]
+      },
+      {
+        "title": "Part 2: Sowing",
+        "duration": "Approx. 1-2 days",
+        "description": "Sow seeds in rows at 90–100 cm spacing and 30–40 cm plant spacing. Seed rate: 15–20 kg per acre. Sow at 3–4 cm depth, preferably at the beginning of the Kharif season.",
+        "completion_check": "Are seeds sown at proper spacing and depth?",
+        "highlights": [
+          "Uniform sowing ensures even crop emergence and reduces competition.",
+          "Avoid waterlogged soils; cotton is sensitive to excess moisture.",
+          "Early sowing ensures longer vegetative growth and better yield."
+        ]
+      },
+      {
+        "title": "Part 3: Week 1-3 – Germination & Seedling Establishment",
+        "duration": "Approx. 2–3 weeks",
+        "description": "Seeds germinate within 7–10 days. Maintain light irrigation to keep soil moist. Remove early weeds manually. Observe uniform seedling emergence.",
+        "completion_check": "Have seedlings emerged uniformly and grown to 4–5 inches?",
+        "highlights": [
+          "Avoid waterlogging; seedlings are sensitive to excess moisture.",
+          "Thin weak seedlings to maintain optimal plant population.",
+          "Monitor for damping-off and early pest attacks."
+        ]
+      },
+      {
+        "title": "Part 4: Week 4-6 – Vegetative Growth & First Fertilizer",
+        "duration": "Approx. 2–3 weeks",
+        "description": "Apply first dose of NPK fertilizer: 40 kg N, 20 kg P₂O₅, 20 kg K₂O per acre. Ensure weed-free fields and proper soil moisture.",
+        "completion_check": "Has first fertilizer application and weeding been done?",
+        "highlights": [
+          "Nitrogen promotes vegetative growth and leaf development.",
+          "Phosphorus encourages root growth; potassium enhances resistance to pests.",
+          "Scout for early pests like aphids and jassids."
+        ]
+      },
+      {
+        "title": "Part 5: Week 7-10 – Flowering Initiation",
+        "duration": "Approx. 4 weeks",
+        "description": "Flowering begins. Maintain adequate moisture and nutrient supply. Monitor for pests like bollworms and aphids. Remove weeds regularly.",
+        "completion_check": "Are flowers emerging uniformly and plants healthy?",
+        "highlights": [
+          "Critical stage for boll formation; adequate nutrition is essential.",
+          "Use pheromone traps or bio-pesticides to control pests.",
+          "Avoid water stress during flowering for optimal boll set."
+        ]
+      },
+      {
+        "title": "Part 6: Week 11-14 – Boll Formation & Growth",
+        "duration": "Approx. 4 weeks",
+        "description": "Bolls form and enlarge. Apply second dose of nitrogen (20–25 kg/acre) if required. Maintain regular irrigation and weed control.",
+        "completion_check": "Are bolls forming and developing properly?",
+        "highlights": [
+          "Potassium promotes boll development and fiber quality.",
+          "Protect crop from bollworms and sucking pests.",
+          "Ensure soil moisture is adequate for boll enlargement."
+        ]
+      },
+      {
+        "title": "Part 7: Week 15-18 – Boll Maturity & Pre-Harvest Care",
+        "duration": "Approx. 4 weeks",
+        "description": "Bolls start maturing. Reduce irrigation slightly to enhance fiber quality. Monitor and control pests and diseases.",
+        "completion_check": "Are bolls maturing and fibers developing properly?",
+        "highlights": [
+          "Avoid excessive nitrogen; it delays boll maturity.",
+          "Monitor for late-stage pests like bollworm and whitefly.",
+          "Field sanitation reduces pest and disease incidence."
+        ]
+      },
+      {
+        "title": "Part 8: Harvesting",
+        "duration": "Approx. 2 weeks",
+        "description": "Harvest mature bolls manually or mechanically when 80–90% of bolls are open. Avoid damage to fibers during picking.",
+        "completion_check": "Has harvesting been completed efficiently?",
+        "highlights": [
+          "Pick cotton in dry weather to prevent mold and discoloration.",
+          "Handle bolls gently to maintain fiber quality.",
+          "Timely harvesting reduces pest infestation in mature bolls."
+        ]
+      },
+      {
+        "title": "Part 9: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Ginning or storage of harvested cotton. Keep cotton in dry, ventilated areas. Monitor for pests and moisture content.",
+        "completion_check": "Is cotton properly dried, stored, or ginned?",
+        "highlights": [
+          "Avoid damp storage; moisture promotes mold and fiber damage.",
+          "Ensure proper aeration to maintain quality.",
+          "Label lots with variety and harvest date for record-keeping."
+        ]
+      },
+      {
+        "title": "Part 10: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout the Crop Cycle",
+        "description": "Monitor for pests like bollworm, aphids, jassids, whiteflies; and diseases like leaf curl virus, bacterial blight, and powdery mildew. Apply IPM (Integrated Pest Management) practices as needed.",
+        "completion_check": "Is the crop free from major pest and disease outbreaks?",
+        "highlights": [
+          "Regular scouting prevents severe pest outbreaks.",
+          "Use resistant varieties whenever possible.",
+          "Field sanitation and timely interventions protect yield and fiber quality.",
+          "Bio-pesticides and pheromone traps reduce chemical dependence."
+        ]
+      }
+    ]
+  },
+  "Grapes": {
+    "displayName": "Grapes",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Trellis Setup",
+        "duration": "Approx. 5–7 days",
+        "description": "Select well-drained sandy loam soil with pH 6–7. Plough the field 2–3 times and incorporate 10–12 tons of FYM per acre. Prepare trellis system using posts and wires to support vine growth.",
+        "completion_check": "Is the land prepared and trellis system set up?",
+        "highlights": [
+          "Good drainage is critical to prevent root rot.",
+          "Trellis system ensures proper vine support and air circulation.",
+          "Organic matter improves soil structure and water retention."
+        ]
+      },
+      {
+        "title": "Part 2: Planting",
+        "duration": "Approx. 2–3 days",
+        "description": "Plant certified disease-free saplings or cuttings in pits of 60×60×60 cm, spaced 2–3 m between rows and 1.5–2 m between plants. Fill pits with topsoil and compost mixture.",
+        "completion_check": "Are saplings planted at proper spacing and depth?",
+        "highlights": [
+          "Plant during early rainy season or with adequate irrigation.",
+          "Proper pit preparation ensures strong root establishment.",
+          "Spacing allows for proper canopy management and sunlight penetration."
+        ]
+      },
+      {
+        "title": "Part 3: Week 1–4 – Establishment & Irrigation",
+        "duration": "Approx. 4 weeks",
+        "description": "Water plants regularly to maintain soil moisture. Mulch around plants with straw or organic material. Remove weeds manually.",
+        "completion_check": "Are young vines established and weed-free?",
+        "highlights": [
+          "Avoid waterlogging to prevent root diseases.",
+          "Mulching conserves soil moisture and suppresses weeds.",
+          "Early care ensures uniform growth and strong root development."
+        ]
+      },
+      {
+        "title": "Part 4: Month 2–3 – Vegetative Growth & Fertilization",
+        "duration": "Approx. 2 months",
+        "description": "Apply NPK fertilizer: 30 kg N, 20 kg P₂O₅, 30 kg K₂O per acre. Train vines along the trellis and prune excess shoots. Monitor for pests like mealybugs, mites, and aphids.",
+        "completion_check": "Has fertilizer application, pruning, and pest monitoring been done?",
+        "highlights": [
+          "Nitrogen promotes vine growth, potassium supports fruit quality.",
+          "Regular pruning improves air circulation and sunlight penetration.",
+          "Pest scouting prevents early infestations."
+        ]
+      },
+      {
+        "title": "Part 5: Month 4–5 – Flowering & Fruit Set",
+        "duration": "Approx. 2 months",
+        "description": "Flowering begins. Maintain proper irrigation and nutrient supply. Apply micronutrients like boron and zinc if deficient. Monitor for fungal diseases like powdery mildew and downy mildew.",
+        "completion_check": "Are flowers emerging and initial fruit set occurring?",
+        "highlights": [
+          "Boron is essential for flower and fruit set.",
+          "Proper moisture and nutrition support higher yield.",
+          "Fungal disease management is critical during humid conditions."
+        ]
+      },
+      {
+        "title": "Part 6: Month 6–8 – Berry Development",
+        "duration": "Approx. 3 months",
+        "description": "Berries enlarge and color. Apply potassium-rich fertilizer for fruit quality. Maintain drip irrigation and mulch to conserve moisture. Monitor for pests like thrips and leafhoppers.",
+        "completion_check": "Are berries developing properly and showing good size and color?",
+        "highlights": [
+          "Potassium enhances berry size, sweetness, and shelf life.",
+          "Consistent irrigation prevents berry cracking and shriveling.",
+          "Monitor and manage pests to prevent quality loss."
+        ]
+      },
+      {
+        "title": "Part 7: Month 9–10 – Maturation & Pre-Harvest",
+        "duration": "Approx. 2 months",
+        "description": "Stop nitrogen application 30 days before harvest. Reduce irrigation slightly to avoid excessive berry softness. Monitor for late-stage pests and fungal infections.",
+        "completion_check": "Are berries mature and ready for harvest?",
+        "highlights": [
+          "Sugar accumulation peaks during this stage.",
+          "Avoid over-irrigation to prevent berry splitting.",
+          "Timely disease management ensures high-quality fruit."
+        ]
+      },
+      {
+        "title": "Part 8: Harvesting",
+        "duration": "Approx. 1–2 weeks",
+        "description": "Harvest fully colored, firm berries manually using clippers. Handle clusters carefully to prevent bruising. Sort and grade berries for market or processing.",
+        "completion_check": "Has harvesting been completed efficiently?",
+        "highlights": [
+          "Pick during dry weather to reduce post-harvest disease.",
+          "Gentle handling preserves fruit quality and shelf life.",
+          "Sort clusters to ensure uniform marketable produce."
+        ]
+      },
+      {
+        "title": "Part 9: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Cool harvested berries immediately to 10–12°C if storing. Store in ventilated crates. Inspect regularly for pests or fungal infections.",
+        "completion_check": "Are berries stored properly to maintain quality?",
+        "highlights": [
+          "Rapid cooling preserves shelf life and reduces spoilage.",
+          "Avoid damp or poorly ventilated storage to prevent fungal growth.",
+          "Handle clusters carefully to prevent mechanical damage."
+        ]
+      },
+      {
+        "title": "Part 10: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout the Crop Cycle",
+        "description": "Monitor for pests like mealybugs, mites, thrips, leafhoppers; and diseases such as powdery mildew, downy mildew, and anthracnose. Apply integrated pest management (IPM) practices as required.",
+        "completion_check": "Is the vineyard free from major pest and disease outbreaks?",
+        "highlights": [
+          "Regular scouting prevents severe pest and disease outbreaks.",
+          "Pruning and canopy management improve air circulation and reduce humidity.",
+          "Use resistant varieties and biological controls wherever possible."
+        ]
+      }
+    ]
+  },
+  "Green Gram (Mung)": {
+    "displayName": "Green Gram (Mung)",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Seed Treatment",
+        "duration": "Approx. 2-3 days",
+        "description": "Plough the field 2-3 times to achieve fine tilth. Incorporate 4-5 tons of FYM per acre. Treat seeds with Rhizobium culture or fungicide (Thiram @3 g/kg) to prevent fungal infections and enhance nodulation.",
+        "completion_check": "Is the field prepared and seeds treated for sowing?",
+        "highlights": [
+          "Well-drained sandy loam or loamy soils with pH 6-7.5 are ideal.",
+          "Good land preparation ensures uniform seed-soil contact.",
+          "Seed treatment enhances early growth and nitrogen fixation."
+        ]
+      },
+      {
+        "title": "Part 2: Sowing",
+        "duration": "Approx. 1-2 days",
+        "description": "Sow seeds at 30-45 cm row spacing and 10-15 cm between plants. Seed rate: 10-12 kg per acre. Sow at 2-3 cm depth. Prefer early Kharif season or after monsoon onset.",
+        "completion_check": "Are seeds sown at correct spacing and depth?",
+        "highlights": [
+          "Uniform sowing reduces competition and ensures better yield.",
+          "Avoid waterlogged soils; mung is sensitive to excess moisture.",
+          "Early sowing ensures full growing season and better flowering."
+        ]
+      },
+      {
+        "title": "Part 3: Week 1-2 – Germination & Seedling Establishment",
+        "duration": "Approx. 2 weeks",
+        "description": "Seeds germinate within 5-7 days. Provide light irrigation to maintain moisture. Remove early weeds manually. Observe uniform seedling emergence.",
+        "completion_check": "Have seedlings emerged uniformly and grown to 3-4 inches?",
+        "highlights": [
+          "Avoid overwatering; waterlogging can kill seedlings.",
+          "Thin weak seedlings to maintain optimal plant population.",
+          "Monitor for damping-off disease and treat if necessary."
+        ]
+      },
+      {
+        "title": "Part 4: Week 3-5 – Vegetative Growth & First Fertilizer",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Apply first top dressing of phosphorus (20 kg P₂O₅/acre) if soil deficient. Ensure field is weed-free and maintain adequate soil moisture.",
+        "completion_check": "Has first fertilizer application and weeding been done?",
+        "highlights": [
+          "Phosphorus promotes root development and nodulation.",
+          "Manual weeding protects delicate seedlings.",
+          "Scout for early pests like aphids or leaf miners."
+        ]
+      },
+      {
+        "title": "Part 5: Week 6-7 – Flowering Initiation",
+        "duration": "Approx. 2 weeks",
+        "description": "Flowering starts. Ensure sufficient soil moisture. Monitor for pests such as pod borers and aphids. Avoid water stress as it affects pod set.",
+        "completion_check": "Are flowers emerging uniformly and plants healthy?",
+        "highlights": [
+          "Critical stage for pod formation and yield.",
+          "Use neem-based sprays or bio-pesticides if pests are observed.",
+          "Maintain weed-free fields to reduce nutrient competition."
+        ]
+      },
+      {
+        "title": "Part 6: Week 8-10 – Pod Formation & Grain Filling",
+        "duration": "Approx. 3 weeks",
+        "description": "Pods develop and grains start filling. Apply potassium fertilizer (10-15 kg K₂O/acre) if soil deficient. Maintain adequate moisture for proper grain filling.",
+        "completion_check": "Are pods forming and grains filling properly?",
+        "highlights": [
+          "Protect crop from pod borer, aphids, and leaf miner.",
+          "Avoid waterlogging; intermittent moisture is preferred.",
+          "Ensure nutrients are sufficient for optimal grain filling."
+        ]
+      },
+      {
+        "title": "Part 7: Week 11-12 – Maturity",
+        "duration": "Approx. 2 weeks",
+        "description": "Stop irrigation 10-12 days before harvest. Allow pods to mature and grains to harden. Monitor for late-stage pests or fungal infections.",
+        "completion_check": "Are pods turning yellow and grains hardened?",
+        "highlights": [
+          "Harvest when 90% of pods are yellow-brown and dry.",
+          "Avoid premature harvesting; reduces seed weight.",
+          "Field sanitation reduces post-harvest pest problems."
+        ]
+      },
+      {
+        "title": "Part 8: Week 13 – Harvesting",
+        "duration": "Approx. 1 week",
+        "description": "Harvest manually or mechanically when pods are dry and grains hard. Cut plants at base, sun-dry, and thresh carefully.",
+        "completion_check": "Has the crop been harvested and grains dried?",
+        "highlights": [
+          "Sun-dry harvested pods to 12% moisture before storage.",
+          "Avoid harvesting during rain to prevent mold growth.",
+          "Handle pods gently to avoid shattering."
+        ]
+      },
+      {
+        "title": "Part 9: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Clean, dry, and store grains in moisture-free, aerated conditions. Use jute or HDPE bags on raised platforms. Inspect stored grains regularly for pests.",
+        "completion_check": "Are grains properly dried and safely stored?",
+        "highlights": [
+          "Avoid damp storage to prevent mold or insect infestation.",
+          "Apply neem leaves or natural repellents for long-term storage.",
+          "Label bags with variety and harvest date."
+        ]
+      },
+      {
+        "title": "Part 10: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout the Crop Cycle",
+        "description": "Monitor for major pests like pod borer, aphids, and leaf miner; and diseases like powdery mildew, yellow mosaic virus, and root rot. Apply integrated pest and disease management practices as required.",
+        "completion_check": "Is the field free from major pest and disease outbreaks?",
+        "highlights": [
+          "Seed treatment reduces early fungal infection.",
+          "Regular scouting prevents severe pest outbreaks.",
+          "Crop rotation with cereals and legumes reduces soil-borne pests.",
+          "Use resistant varieties whenever possible."
+        ]
+      }
+    ]
+  },
+  "Guava": {
+    "displayName": "Guava",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Planting",
+        "duration": "Approx. 5–7 days",
+        "description": "Select well-drained sandy loam soil with pH 5.5–7. Plough the field 2–3 times and incorporate 8–10 tons of well-decomposed FYM per acre. Plant healthy, disease-free guava saplings in pits of 60×60×60 cm. Maintain spacing of 5–6 m between trees and rows.",
+        "completion_check": "Are saplings planted properly with correct spacing and soil preparation?",
+        "highlights": [
+          "Good drainage prevents root rot and waterlogging.",
+          "Healthy saplings ensure faster establishment and higher yield.",
+          "Organic matter improves soil structure and fertility."
+        ]
+      },
+      {
+        "title": "Part 2: Establishment & Early Care",
+        "duration": "Approx. 3–6 months",
+        "description": "Water regularly to maintain soil moisture, especially during dry periods. Apply light dose of NPK fertilizer (10–15 kg N, 5–10 kg P₂O₅, 10–15 kg K₂O per acre) near the base. Mulch around the plant to conserve moisture and reduce weeds.",
+        "completion_check": "Are young trees established and growing healthily?",
+        "highlights": [
+          "Mulching conserves soil moisture and suppresses weeds.",
+          "Avoid overwatering to prevent root diseases.",
+          "Early fertilization promotes strong vegetative growth."
+        ]
+      },
+      {
+        "title": "Part 3: Vegetative Growth & Fertilization",
+        "duration": "Approx. 6–12 months",
+        "description": "Apply NPK fertilizer (20–25 kg N, 10–15 kg P₂O₅, 20–25 kg K₂O per acre) in split doses. Prune lower branches to improve air circulation and sunlight penetration. Monitor for pests like fruit flies, aphids, and mealybugs.",
+        "completion_check": "Has fertilizer application, pruning, and pest monitoring been done?",
+        "highlights": [
+          "Nitrogen promotes leaf and shoot growth; potassium improves fruit quality.",
+          "Pruning enhances canopy ventilation and sunlight exposure.",
+          "Regular pest monitoring prevents early infestations."
+        ]
+      },
+      {
+        "title": "Part 4: Flowering & Fruit Set",
+        "duration": "Approx. 2–3 months",
+        "description": "Flower buds appear followed by fruit set. Maintain moderate irrigation. Apply micronutrients like boron and zinc if deficient. Protect flowers from pests using nets or biopesticides as needed.",
+        "completion_check": "Are flowers and initial fruits developing properly?",
+        "highlights": [
+          "Boron is important for flower and fruit formation.",
+          "Adequate moisture ensures better fruit set.",
+          "Flower protection reduces fruit drop and pest damage."
+        ]
+      },
+      {
+        "title": "Part 5: Fruit Development & Growth",
+        "duration": "Approx. 3–4 months",
+        "description": "Fruits grow and mature. Apply potassium-rich fertilizer to improve size, sweetness, and color. Maintain regular irrigation and mulch. Monitor for pests like fruit flies, aphids, mealybugs, and diseases such as anthracnose and wilt.",
+        "completion_check": "Are fruits growing well and free from pests and diseases?",
+        "highlights": [
+          "Potassium improves fruit size, flavor, and shelf life.",
+          "Mulching conserves soil moisture and reduces weed pressure.",
+          "Timely pest and disease management ensures healthy fruits."
+        ]
+      },
+      {
+        "title": "Part 6: Pre-Harvest & Harvesting",
+        "duration": "Approx. 1–2 weeks",
+        "description": "Harvest fruits when they reach full size, color, and firmness. Use clippers or knives to cut fruits carefully. Handle harvested fruits gently and sort according to market or processing requirements.",
+        "completion_check": "Are guava fruits harvested at optimal maturity and handled properly?",
+        "highlights": [
+          "Harvesting at correct maturity ensures optimal sweetness and shelf life.",
+          "Avoid mechanical damage during harvesting.",
+          "Timely harvest reduces pest infestation and overripe losses."
+        ]
+      },
+      {
+        "title": "Part 7: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Transport harvested fruits to shaded, ventilated areas. For longer storage, maintain temperature at 10–15°C with relative humidity 85–90%. Inspect fruits regularly for fungal infections or pests.",
+        "completion_check": "Are harvested guavas stored or transported correctly?",
+        "highlights": [
+          "Shaded, ventilated storage reduces spoilage and maintains fruit color.",
+          "Temperature and humidity control extend shelf life.",
+          "Regular inspection prevents post-harvest loss due to diseases."
+        ]
+      },
+      {
+        "title": "Part 8: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout Crop Cycle",
+        "description": "Monitor for pests like fruit flies, aphids, mealybugs; and diseases such as anthracnose, wilt, and fruit rot. Apply integrated pest management (IPM) and biological controls as needed.",
+        "completion_check": "Is the guava orchard free from major pest and disease outbreaks?",
+        "highlights": [
+          "Regular scouting prevents severe infestations and yield loss.",
+          "Pruning and sanitation reduce disease incidence.",
+          "Use resistant varieties and biological controls wherever possible."
+        ]
+      }
+    ]
+  },
+  "Sorghum (Jowar)": {
+    "displayName": "Sorghum (Jowar)",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Sowing",
+        "duration": "Approx. 3-5 days",
+        "description": "Plough the field 2-3 times to get a fine tilth. Incorporate 8-10 tons of FYM or compost per acre. Level the field for uniform moisture. Sow the seeds using a seed drill or by dibbling at 45 cm row spacing and 15 cm plant spacing.",
+        "completion_check": "Have the seeds been sown evenly at the recommended spacing and depth?",
+        "highlights": [
+          "Use 3-4 kg of quality sorghum seed per acre.",
+          "Optimum sowing depth: 2-3 cm — deeper sowing delays germination.",
+          "Ensure good soil moisture at sowing for uniform emergence.",
+          "Early land preparation helps control initial weeds."
+        ]
+      },
+      {
+        "title": "Part 2: Week 1-2 – Germination & Establishment",
+        "duration": "Approx. 2 weeks",
+        "description": "Seeds germinate within 5-7 days under proper moisture. Maintain light irrigation (if irrigated) and avoid water stagnation. Observe for uniform stand and re-sow missing hills within 10 days.",
+        "completion_check": "Are most plants germinated evenly and 3-4 inches tall?",
+        "highlights": [
+          "Avoid heavy irrigation; waterlogging damages seedlings.",
+          "Thin the crop to maintain single healthy plants per stand.",
+          "Early pest alert: Watch for shoot fly and cutworms.",
+          "Spray neem-based pesticide if shoot fly incidence is visible."
+        ]
+      },
+      {
+        "title": "Part 3: Week 3-5 – Early Growth & Weeding",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Carry out first intercultural weeding and hoeing around 20-25 days after sowing. Apply the first dose of nitrogen fertilizer. Maintain moisture and remove competing weeds.",
+        "completion_check": "Has the first weeding and fertilizer application been done?",
+        "highlights": [
+          "Apply 20 kg N (as urea) per acre for the first dose.",
+          "Weed control: Use hand hoe or wheel hoe for effective aeration.",
+          "Maintain 5-7 cm soil mulch to conserve moisture in rainfed fields.",
+          "Avoid disturbing plant roots during hoeing."
+        ]
+      },
+      {
+        "title": "Part 4: Week 6-8 – Vegetative Growth & Tillering",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Plants begin tillering vigorously. Apply the second dose of nitrogen and potassium fertilizers. Maintain field cleanliness and moisture to promote healthy growth.",
+        "completion_check": "Are plants 2-3 feet tall with active tillers?",
+        "highlights": [
+          "Apply 25 kg N + 10 kg K₂O (as urea + MOP) per acre.",
+          "Ideal time to apply irrigation (if irrigated) for uniform tiller growth.",
+          "Inspect for shoot fly and stem borer damage at leaf whorl stage.",
+          "Remove and destroy infested plants early to prevent spread."
+        ]
+      },
+      {
+        "title": "Part 5: Week 9-11 – Booting & Panicle Formation Stage",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Plants enter reproductive phase with booting and panicle initiation. Maintain adequate moisture and nutrient supply. Avoid stress at this stage as it affects grain set.",
+        "completion_check": "Are panicles visible and emerging uniformly?",
+        "highlights": [
+          "Apply final top dressing of 15 kg N per acre at booting stage.",
+          "Avoid water stress — crucial period for grain formation.",
+          "Inspect for aphids and midge — treat with neem or insecticide if needed.",
+          "Do not allow weeds to compete for nutrients or sunlight."
+        ]
+      },
+      {
+        "title": "Part 6: Week 12-14 – Flowering Stage",
+        "duration": "Approx. 2 weeks",
+        "description": "Ensure optimal soil moisture during flowering. Avoid any pesticide or fertilizer spray during peak anthesis. Pollination occurs naturally — moisture stress can cause poor grain set.",
+        "completion_check": "Is flowering complete and grain set visible?",
+        "highlights": [
+          "Irrigate lightly during flowering if dry spells occur.",
+          "Avoid nitrogen application — may lead to lodging.",
+          "Check for sorghum midge (tiny red fly) — causes chaffy heads.",
+          "Spray neem oil 3% or suitable bio-control agents if pests are noticed."
+        ]
+      },
+      {
+        "title": "Part 7: Week 15-17 – Grain Filling & Maturity",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Panicles begin grain filling. Reduce irrigation frequency and allow natural drying. Ensure balanced nutrition and pest-free heads for proper grain development.",
+        "completion_check": "Are the grains firm, filled, and turning golden?",
+        "highlights": [
+          "Stop irrigation 10-12 days before harvest to enhance grain hardening.",
+          "Monitor for earhead bug and grain mold under humid conditions.",
+          "Bird control: Use reflective ribbons or scare devices.",
+          "Avoid mechanical disturbance to prevent seed shattering."
+        ]
+      },
+      {
+        "title": "Part 8: Week 18-20 – Harvesting",
+        "duration": "Approx. 1-2 weeks",
+        "description": "Harvest when grains are hard and moisture content is around 20%. Cut the earheads first or harvest the entire plant depending on purpose (grain or fodder).",
+        "completion_check": "Are grains dry, hard, and no longer dentable by fingernail?",
+        "highlights": [
+          "Harvest during clear weather to prevent fungal growth.",
+          "Thresh soon after harvesting and dry grains to 12% moisture.",
+          "Use sickles or mechanical harvesters for large fields.",
+          "Avoid over-drying — causes grain breakage."
+        ]
+      },
+      {
+        "title": "Part 9: Post-Harvest Drying & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Clean, sun-dry, and store the grains in aerated conditions. Proper storage prevents mold and insect infestation.",
+        "completion_check": "Are grains clean, dry, and safely stored?",
+        "highlights": [
+          "Dry grains under sunlight for 3-4 days until moisture is 12%.",
+          "Store in gunny or HDPE bags on wooden pallets.",
+          "Use neem leaves or natural repellents in storage bins.",
+          "Avoid damp, dark storage conditions."
+        ]
+      },
+      {
+        "title": "Part 10: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout the Crop Cycle",
+        "description": "Regularly inspect crop for major pests like shoot fly, stem borer, aphids, and diseases such as grain mold, anthracnose, and smut. Apply integrated pest management (IPM) practices.",
+        "completion_check": "Is the field free of major pest and disease damage?",
+        "highlights": [
+          "Shoot Fly: Deadheart symptoms — apply seed treatment with Imidacloprid before sowing.",
+          "Stem Borer: Leaf whorl damage — remove infested shoots early.",
+          "Grain Mold: Common in humid weather — ensure proper drying and aeration.",
+          "Rotate sorghum with pulses to reduce pest buildup in soil."
+        ]
+      }
+    ]
+  },
+  "Mango": {
+    "displayName": "Mango",
+    "plan": [
+      {
+        "title": "Part 1: Mature Tree Care & Pre-Harvest",
+        "duration": "Approx. 2–4 weeks before harvest",
+        "description": "Inspect mature mango trees (3–5+ years old) for fruit development. Apply final dose of potash (K₂O) to enhance fruit quality. Reduce nitrogen fertilization to prevent excessive vegetative growth. Maintain moderate irrigation to keep fruits plump but avoid waterlogging. Thin overcrowded fruits to ensure uniform size and prevent branch breakage.",
+        "completion_check": "Are mango trees ready with well-developed fruits and proper nutrient management?",
+        "highlights": [
+          "Potassium improves fruit size, sweetness, color, and shelf life.",
+          "Avoid excess nitrogen at this stage to enhance fruit maturity.",
+          "Thinning reduces fruit drop and improves quality of remaining fruits.",
+          "Moderate irrigation prevents cracking and fungal infections."
+        ]
+      },
+      {
+        "title": "Part 2: Harvesting",
+        "duration": "Approx. 1–2 weeks",
+        "description": "Harvest fruits when they reach full size and appropriate color according to variety. Use clippers or poles with bags to collect fruits without damaging branches or other fruits. Handle harvested fruits gently to prevent bruising. Sort fruits for market or processing, separating damaged or immature fruits.",
+        "completion_check": "Have mango fruits been harvested carefully and sorted properly?",
+        "highlights": [
+          "Harvesting at the right maturity ensures maximum sugar content and flavor.",
+          "Avoid harvesting during rainy or wet conditions to reduce disease incidence.",
+          "Proper handling preserves fruit quality and shelf life.",
+          "Sorting ensures uniform marketable produce and reduces post-harvest losses."
+        ]
+      },
+      {
+        "title": "Part 3: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Keep harvested mangoes in a shaded, ventilated area. If storing before transport, maintain temperature at 12–15°C and relative humidity 85–90%. Inspect fruits regularly for pests or fungal infections.",
+        "completion_check": "Are harvested mangoes stored or transported properly to maintain quality?",
+        "highlights": [
+          "Shaded and ventilated storage reduces spoilage and fungal growth.",
+          "Temperature control extends shelf life for market or processing.",
+          "Regular inspection prevents loss due to post-harvest diseases.",
+          "Gentle handling during transport maintains fruit appearance and quality."
+        ]
+      },
+      {
+        "title": "Part 4: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout Pre-Harvest & Harvest",
+        "description": "Monitor for pests such as mango hoppers, mealybugs, and fruit flies; and diseases like powdery mildew, anthracnose, and stem-end rot. Apply appropriate IPM measures and sprays when necessary.",
+        "completion_check": "Are mango trees and harvested fruits free from major pests and diseases?",
+        "highlights": [
+          "Regular scouting prevents outbreaks and fruit damage.",
+          "Integrated pest management reduces chemical use and improves fruit quality.",
+          "Timely disease control ensures high-quality, marketable fruits.",
+          "Sanitation around trees reduces fungal infections and fruit drop."
+        ]
+      }
+    ]
+  },
+  "Onion": {
+    "displayName": "Onion",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Seed Treatment",
+        "duration": "Approx. 3–5 days",
+        "description": "Plough the field 2–3 times to get fine tilth. Incorporate 10–12 tons of well-decomposed FYM per acre. Treat seeds or sets with fungicide (Thiram @2–3 g/kg) to prevent seed-borne diseases.",
+        "completion_check": "Is the field prepared and seeds/sets treated for planting?",
+        "highlights": [
+          "Sandy loam soils with good drainage and pH 6–7 are ideal.",
+          "Proper land preparation ensures uniform bulb development.",
+          "Seed treatment prevents early damping-off and fungal infections."
+        ]
+      },
+      {
+        "title": "Part 2: Sowing / Planting",
+        "duration": "Approx. 2–3 days",
+        "description": "Sow seeds in nursery beds or direct sow in main field. Use 10–15 cm row spacing and 5–7 cm plant spacing. Depth: 1–2 cm for seeds, 2–3 cm for sets. Transplant seedlings after 6–8 weeks if using nursery.",
+        "completion_check": "Are seeds/sets sown at proper spacing and depth?",
+        "highlights": [
+          "Uniform sowing ensures even germination and crop establishment.",
+          "Early sowing allows for longer vegetative growth.",
+          "Avoid waterlogging to prevent seed rot."
+        ]
+      },
+      {
+        "title": "Part 3: Week 1–4 – Germination & Seedling Establishment",
+        "duration": "Approx. 4 weeks",
+        "description": "Seeds germinate in 7–10 days. Maintain light irrigation to keep soil moist. Remove weeds manually. Observe uniform seedling growth and vigor.",
+        "completion_check": "Have seedlings emerged uniformly and grown to 3–4 inches?",
+        "highlights": [
+          "Avoid heavy irrigation; excessive moisture leads to damping-off.",
+          "Thin seedlings to maintain optimal plant population.",
+          "Monitor for early pests like thrips and cutworms."
+        ]
+      },
+      {
+        "title": "Part 4: Week 5–8 – Vegetative Growth & Fertilizer Application",
+        "duration": "Approx. 4 weeks",
+        "description": "Apply first dose of NPK fertilizer: 40–50 kg N, 20 kg P₂O₅, 20 kg K₂O per acre. Maintain weed-free fields and proper irrigation.",
+        "completion_check": "Has first fertilizer application and weeding been done?",
+        "highlights": [
+          "Nitrogen promotes leaf growth and bulb development.",
+          "Phosphorus enhances root development; potassium improves bulb quality.",
+          "Regular weeding ensures optimal nutrient availability."
+        ]
+      },
+      {
+        "title": "Part 5: Week 9–12 – Bulb Formation",
+        "duration": "Approx. 4 weeks",
+        "description": "Bulbs start forming. Apply second dose of nitrogen (20–25 kg/acre) if needed. Maintain adequate soil moisture; avoid water stress.",
+        "completion_check": "Are bulbs forming and plants healthy?",
+        "highlights": [
+          "Proper irrigation during bulb formation ensures uniform size.",
+          "Protect crop from thrips and leaf miner.",
+          "Ensure soil nutrient balance for better bulb quality."
+        ]
+      },
+      {
+        "title": "Part 6: Week 13–16 – Bulb Maturation",
+        "duration": "Approx. 4 weeks",
+        "description": "Reduce irrigation gradually to allow bulbs to mature. Monitor for late-stage pests and diseases. Remove yellowing leaves if needed.",
+        "completion_check": "Are bulbs maturing properly and leaves yellowing as expected?",
+        "highlights": [
+          "Avoid excess irrigation; promotes bulb splitting.",
+          "Scout for stem and bulb rot, purple blotch, and thrips.",
+          "Field sanitation reduces post-harvest disease incidence."
+        ]
+      },
+      {
+        "title": "Part 7: Week 17–18 – Pre-Harvest Care",
+        "duration": "Approx. 2 weeks",
+        "description": "Stop irrigation 7–10 days before harvest. Allow tops to dry naturally. Prepare for harvesting.",
+        "completion_check": "Are bulbs mature and tops dried properly?",
+        "highlights": [
+          "Pre-harvest drying reduces storage losses.",
+          "Avoid mechanical damage during harvesting.",
+          "Field inspection ensures pest-free harvest."
+        ]
+      },
+      {
+        "title": "Part 8: Harvesting",
+        "duration": "Approx. 1 week",
+        "description": "Harvest mature bulbs manually or mechanically. Lift bulbs carefully to avoid injury. Remove soil adhering to bulbs.",
+        "completion_check": "Has harvesting been completed efficiently?",
+        "highlights": [
+          "Harvest when 70–80% tops are fallen and dry.",
+          "Avoid harvesting during rainy days to prevent rot.",
+          "Gentle handling maintains bulb quality."
+        ]
+      },
+      {
+        "title": "Part 9: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Cure bulbs in shade for 7–10 days. Store in well-ventilated, dry conditions at 15–20°C. Inspect regularly for pests or rot.",
+        "completion_check": "Are bulbs properly cured and stored?",
+        "highlights": [
+          "Curing reduces moisture content and increases shelf life.",
+          "Avoid damp or closed storage to prevent fungal infections.",
+          "Label batches with variety and harvest date for tracking."
+        ]
+      },
+      {
+        "title": "Part 10: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout the Crop Cycle",
+        "description": "Monitor for pests like thrips, onion maggot, and leaf miner; and diseases such as purple blotch, downy mildew, and basal rot. Apply integrated pest management (IPM) practices as required.",
+        "completion_check": "Is the crop free from major pest and disease outbreaks?",
+        "highlights": [
+          "Regular scouting prevents severe pest outbreaks.",
+          "Field sanitation reduces disease incidence.",
+          "Use resistant varieties whenever possible.",
+          "Timely biological or chemical interventions protect yield and bulb quality."
+        ]
+      }
+    ]
+  },
+  "Orange": {
+    "displayName": "Orange",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Planting",
+        "duration": "Approx. 5–7 days",
+        "description": "Select well-drained sandy loam soil with pH 6–7. Plough the field 2–3 times and incorporate 10–12 tons of FYM per acre. Plant healthy, disease-free orange saplings in pits of 60×60×60 cm. Maintain spacing of 5–6 m between trees and rows.",
+        "completion_check": "Are saplings planted properly with correct spacing and soil preparation?",
+        "highlights": [
+          "Good drainage prevents root rot and waterlogging.",
+          "Healthy saplings ensure faster establishment and higher fruit yield.",
+          "Proper pit preparation ensures strong root growth."
+        ]
+      },
+      {
+        "title": "Part 2: Establishment & Early Care",
+        "duration": "Approx. 3–6 months",
+        "description": "Water regularly to maintain soil moisture, especially during dry periods. Apply light dose of NPK fertilizer (10–15 kg N, 5–10 kg P₂O₅, 10 kg K₂O per acre) near the tree base. Mulch around the base to conserve moisture and reduce weeds.",
+        "completion_check": "Are young trees established and growing healthily?",
+        "highlights": [
+          "Mulching conserves moisture and suppresses weed growth.",
+          "Avoid overwatering to prevent root diseases.",
+          "Early fertilization promotes strong vegetative growth."
+        ]
+      },
+      {
+        "title": "Part 3: Vegetative Growth & Fertilization",
+        "duration": "Approx. 6–12 months",
+        "description": "Apply NPK fertilizer (20–25 kg N, 10–15 kg P₂O₅, 20–25 kg K₂O per acre) in split doses. Prune lower branches to improve air circulation and sunlight penetration. Monitor for pests like aphids, leaf miners, and mites.",
+        "completion_check": "Has fertilizer application, pruning, and pest monitoring been done?",
+        "highlights": [
+          "Nitrogen supports leaf and shoot growth, potassium improves fruit quality.",
+          "Pruning reduces disease incidence and promotes uniform canopy.",
+          "Regular pest monitoring prevents early infestations."
+        ]
+      },
+      {
+        "title": "Part 4: Flowering & Fruit Set",
+        "duration": "Approx. 2–3 months",
+        "description": "Flowers appear, followed by fruit set. Maintain moderate irrigation. Apply micronutrients such as boron and zinc to improve fruit set and quality. Protect flowers from pests using nets or biopesticides if required.",
+        "completion_check": "Are flowers and initial fruits healthy?",
+        "highlights": [
+          "Boron is essential for flower and fruit formation.",
+          "Adequate moisture ensures better fruit set.",
+          "Protecting flowers reduces fruit drop and pest damage."
+        ]
+      },
+      {
+        "title": "Part 5: Fruit Development & Growth",
+        "duration": "Approx. 4–5 months",
+        "description": "Fruits grow and mature. Apply potassium-rich fertilizer to enhance size and sweetness. Maintain regular irrigation and mulch to conserve moisture. Monitor for pests like fruit flies, aphids, and scale insects, and diseases such as citrus canker and leaf spot.",
+        "completion_check": "Are fruits growing well and free from pests and diseases?",
+        "highlights": [
+          "Potassium improves fruit color, size, and shelf life.",
+          "Mulching conserves soil moisture and reduces weed pressure.",
+          "Timely pest and disease management ensures healthy fruits."
+        ]
+      },
+      {
+        "title": "Part 6: Pre-Harvest & Harvesting",
+        "duration": "Approx. 1–2 weeks",
+        "description": "Fruits reach full size and color. Stop heavy fertilization 2–3 weeks before harvest. Harvest fruits manually when they are firm and fully colored. Handle fruits gently to avoid bruising and damage.",
+        "completion_check": "Are orange fruits harvested properly at optimal maturity?",
+        "highlights": [
+          "Harvesting at the right maturity ensures optimal sweetness and acidity.",
+          "Avoid mechanical damage during harvesting.",
+          "Timely harvest reduces pest infestation and fruit drop."
+        ]
+      },
+      {
+        "title": "Part 7: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Transport harvested fruits to shaded, ventilated storage. For longer storage, maintain temperature at 12–15°C with 85–90% relative humidity. Inspect fruits regularly for fungal infections or pests.",
+        "completion_check": "Are harvested oranges stored or transported correctly?",
+        "highlights": [
+          "Shaded storage prevents spoilage and sunburn.",
+          "Temperature and humidity control extend shelf life.",
+          "Regular inspection maintains quality and reduces post-harvest loss."
+        ]
+      },
+      {
+        "title": "Part 8: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout Crop Cycle",
+        "description": "Monitor for pests like fruit flies, aphids, mealybugs, and scale insects; and diseases such as citrus canker, leaf spot, and greening. Apply integrated pest management (IPM) practices as needed.",
+        "completion_check": "Is the orange orchard free from major pest and disease outbreaks?",
+        "highlights": [
+          "Regular scouting prevents severe infestations.",
+          "Pruning and sanitation reduce disease incidence.",
+          "Use resistant varieties and biological controls wherever possible."
+        ]
+      }
+    ]
+  },
+  "Pomegranate": {
+    "displayName": "Pomegranate",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Planting",
+        "duration": "Approx. 5–7 days",
+        "description": "Select well-drained sandy loam soil with pH 6–7. Plough the field 2–3 times and incorporate 8–10 tons of well-decomposed FYM per acre. Plant healthy, disease-free saplings in pits of 60×60×60 cm. Maintain spacing of 5–6 m between trees and rows.",
+        "completion_check": "Are saplings planted properly with correct spacing and soil preparation?",
+        "highlights": [
+          "Well-drained soil is critical; pomegranates are sensitive to waterlogging.",
+          "Healthy saplings ensure faster establishment and higher fruit yield.",
+          "Organic matter improves soil fertility and structure."
+        ]
+      },
+      {
+        "title": "Part 2: Establishment & Early Care",
+        "duration": "Approx. 3–6 months",
+        "description": "Water regularly to maintain soil moisture, especially during dry periods. Apply light dose of NPK fertilizer (10–15 kg N, 5–10 kg P₂O₅, 10–15 kg K₂O per acre) near the base. Mulch around the plant to conserve moisture and reduce weeds.",
+        "completion_check": "Are young trees established and growing healthily?",
+        "highlights": [
+          "Mulching helps conserve soil moisture and suppress weeds.",
+          "Avoid overwatering to prevent root rot.",
+          "Early fertilization promotes strong vegetative growth."
+        ]
+      },
+      {
+        "title": "Part 3: Vegetative Growth & Fertilization",
+        "duration": "Approx. 6–12 months",
+        "description": "Apply NPK fertilizer (20–25 kg N, 15 kg P₂O₅, 25–30 kg K₂O per acre) in split doses. Prune lower branches to improve air circulation and sunlight penetration. Monitor for pests like aphids, mealybugs, and leaf-footed bugs.",
+        "completion_check": "Has fertilizer application, pruning, and pest monitoring been done?",
+        "highlights": [
+          "Nitrogen promotes leaf and shoot growth; potassium improves fruit quality.",
+          "Pruning enhances canopy ventilation and sunlight exposure.",
+          "Regular pest monitoring prevents infestations early."
+        ]
+      },
+      {
+        "title": "Part 4: Flowering & Fruit Set",
+        "duration": "Approx. 2–3 months",
+        "description": "Flower buds appear followed by fruit set. Maintain moderate irrigation and ensure micronutrients like boron and zinc are available. Protect flowers from pests using nets or biopesticides.",
+        "completion_check": "Are flowers and initial fruits developing properly?",
+        "highlights": [
+          "Boron is critical for flower and fruit formation.",
+          "Adequate moisture supports fruit set.",
+          "Flower protection reduces pest damage and fruit drop."
+        ]
+      },
+      {
+        "title": "Part 5: Fruit Development & Growth",
+        "duration": "Approx. 4–5 months",
+        "description": "Fruits grow and mature. Apply potassium-rich fertilizer to enhance size, sweetness, and color. Maintain regular irrigation and mulch. Monitor for pests like fruit borers, aphids, and thrips, and diseases like fruit rot and leaf spot.",
+        "completion_check": "Are fruits growing well and free from pests and diseases?",
+        "highlights": [
+          "Potassium enhances fruit size, color, and shelf life.",
+          "Mulching conserves moisture and reduces weed competition.",
+          "Timely pest and disease management ensures healthy fruits."
+        ]
+      },
+      {
+        "title": "Part 6: Pre-Harvest & Harvesting",
+        "duration": "Approx. 1–2 weeks",
+        "description": "Harvest fruits when they attain full size, bright color, and proper firmness. Cut fruits carefully using clippers to avoid injury. Handle fruits gently and sort according to market or processing requirements.",
+        "completion_check": "Are pomegranate fruits harvested at optimal maturity and handled properly?",
+        "highlights": [
+          "Harvest at correct maturity for best taste and shelf life.",
+          "Avoid mechanical damage to maintain quality.",
+          "Timely harvest prevents pest attacks and overripe losses."
+        ]
+      },
+      {
+        "title": "Part 7: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Transport harvested fruits to shaded, ventilated areas. For longer storage, maintain temperature at 7–10°C with relative humidity 85–90%. Inspect fruits regularly for pests or fungal infections.",
+        "completion_check": "Are harvested fruits stored or transported correctly?",
+        "highlights": [
+          "Shaded, ventilated storage reduces spoilage and maintains fruit color.",
+          "Temperature and humidity control extend shelf life.",
+          "Regular inspection prevents post-harvest loss due to diseases."
+        ]
+      },
+      {
+        "title": "Part 8: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout Crop Cycle",
+        "description": "Monitor for pests such as aphids, mealybugs, fruit borers; and diseases like fruit rot, leaf spot, and bacterial blight. Apply integrated pest management (IPM) practices and biological controls as needed.",
+        "completion_check": "Is the pomegranate orchard free from major pest and disease outbreaks?",
+        "highlights": [
+          "Regular scouting prevents severe infestations and yield loss.",
+          "Pruning and sanitation reduce disease incidence.",
+          "Use resistant varieties and biological controls wherever possible."
+        ]
+      }
+    ]
+  },
+  "Rice (Paddy)": {
+    "displayName": "Rice (Paddy)",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Nursery Establishment",
+        "duration": "Approx. 10-15 days",
+        "description": "Puddle the field thoroughly with 2-3 ploughings followed by leveling. Create a separate nursery area and sow pre-soaked rice seeds. Maintain standing water at 2-3 cm depth in the nursery.",
+        "completion_check": "Are the seedlings 20-25 days old and healthy, ready for transplanting?",
+        "highlights": [
+          "Field should be well-leveled to retain uniform water depth.",
+          "Use about 30-35 kg seed per acre for nursery sowing.",
+          "Maintain thin water layer — avoid deep flooding at this stage."
+        ]
+      },
+      {
+        "title": "Part 2: Transplanting",
+        "duration": "Approx. 2-3 days",
+        "description": "Transplant 20-25 day old seedlings in the main field at 20 x 15 cm spacing (2-3 seedlings per hill). Maintain standing water of 2-3 cm immediately after transplanting.",
+        "completion_check": "Have all seedlings been transplanted with proper spacing and water maintained?",
+        "highlights": [
+          "Transplant during cooler hours of the day (morning/evening).",
+          "Avoid planting too deep; keep roots just below the surface.",
+          "Apply basal dose of FYM (10-15 tons/acre) before transplanting."
+        ]
+      },
+      {
+        "title": "Part 3: Week 1-3 After Transplanting – Establishment Phase",
+        "duration": "Approx. 3 weeks",
+        "description": "Maintain shallow water (2-3 cm). Avoid stagnation in early growth. Start first weeding and light irrigation as needed. Monitor for pest attack and nutrient deficiency.",
+        "completion_check": "Are plants well established and showing uniform tillering?",
+        "highlights": [
+          "First hand weeding or cono weeder operation around 20 days after transplanting.",
+          "Ensure nitrogen availability — yellow leaves indicate deficiency.",
+          "Maintain uniform soil moisture — avoid drying."
+        ]
+      },
+      {
+        "title": "Part 4: Week 4-6 – Active Tillering Stage",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Apply first top dressing of urea (N fertilizer) and maintain 3-5 cm of standing water. Keep fields weed-free and monitor tillering. Good tillering ensures higher yield potential.",
+        "completion_check": "Has the first fertilizer dose been applied and tillers visibly increased?",
+        "highlights": [
+          "Fertilizer Dose: Apply 35 kg N (as urea) per acre.",
+          "Do not drain water after fertilizer application for at least 2 days.",
+          "Maintain field bunds to prevent nutrient runoff."
+        ]
+      },
+      {
+        "title": "Part 5: Week 7-9 – Panicle Initiation (PI) Stage",
+        "duration": "Approx. 3 weeks",
+        "description": "Panicle initiation marks the reproductive phase. Apply second dose of N and K fertilizers. Ensure continuous shallow water (5 cm) in the field.",
+        "completion_check": "Are panicle primordia forming inside the stem and plants deep green?",
+        "highlights": [
+          "Apply 25 kg N + 20 kg K2O (as urea + MOP) per acre.",
+          "Critical stage — avoid water stress at all costs.",
+          "Inspect for stem borer and leaf folder infestation."
+        ]
+      },
+      {
+        "title": "Part 6: Week 10-12 – Booting to Flowering Stage",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Maintain 5-7 cm water depth. Avoid spraying during flowering. Apply last split of nitrogen if required. Ensure pest and disease control during heading.",
+        "completion_check": "Are panicles emerging and flowering uniformly?",
+        "highlights": [
+          "Last top dressing of 10-15 kg N per acre if crop is pale.",
+          "Avoid any physical disturbance during flowering.",
+          "Maintain clean field; no weeds or standing dead plants."
+        ]
+      },
+      {
+        "title": "Part 7: Week 13-15 – Grain Filling Stage",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Reduce water depth gradually. Allow intermittent wetting and drying. Ensure nutrient balance for better grain filling and avoid lodging.",
+        "completion_check": "Are grains filling properly and turning from milky to dough stage?",
+        "highlights": [
+          "Avoid nitrogen application at this stage.",
+          "Protect crop from birds and rodents.",
+          "Pest focus: Rice bug, Gundhi bug — use light traps if needed."
+        ]
+      },
+      {
+        "title": "Part 8: Week 16-18 – Maturity & Harvesting",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Drain water completely 10-12 days before harvest. Harvest when 80-85% grains are golden yellow and firm. Avoid harvesting too early (grain chalkiness).",
+        "completion_check": "Have grains hardened and moisture reduced to 20-22%?",
+        "highlights": [
+          "Proper drying ensures better milling yield.",
+          "Use sickles or combine harvester based on scale.",
+          "Thresh within 24 hours to prevent shattering losses."
+        ]
+      },
+      {
+        "title": "Part 9: Post-Harvest Handling",
+        "duration": "Approx. 1 week",
+        "description": "Clean, dry, and store grains properly. Sun-dry the grains to reduce moisture to 12-14%. Store in jute bags in cool, dry conditions to prevent insect attack.",
+        "completion_check": "Is the harvested grain clean, dry, and safely stored?",
+        "highlights": [
+          "Use phosphine fumigation if storing for long periods.",
+          "Never store damp paddy — encourages mold.",
+          "Label and date the bags for record-keeping."
+        ]
+      },
+      {
+        "title": "Part 10: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout the Crop Cycle",
+        "description": "Monitor regularly for stem borer, leaf folder, brown planthopper, and blast. Use biological control or recommended insecticides/fungicides as needed.",
+        "completion_check": "Is the field free from major pest or disease outbreaks?",
+        "highlights": [
+          "Stem Borer: Yellowing/dead heart in early stages.",
+          "Brown Planthopper: Hopper burn at the base of tillers.",
+          "Blast: Dark lesions on leaves; use resistant varieties when possible."
+        ]
+      }
+    ]
+  },
+  "Soybean": {
+    "displayName": "Soybean",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Seed Treatment",
+        "duration": "Approx. 2–3 days",
+        "description": "Plough the field 2–3 times to achieve fine tilth. Incorporate 4–5 tons of FYM per acre. Treat seeds with Rhizobium inoculant or fungicide (Thiram @2–3 g/kg) to enhance nodulation and prevent fungal diseases.",
+        "completion_check": "Is the field prepared and seeds treated for sowing?",
+        "highlights": [
+          "Well-drained loamy or sandy loam soils with pH 6–7.5 are ideal.",
+          "Good land preparation ensures uniform seed-soil contact.",
+          "Seed treatment improves early growth, nitrogen fixation, and disease resistance."
+        ]
+      },
+      {
+        "title": "Part 2: Sowing",
+        "duration": "Approx. 1–2 days",
+        "description": "Sow seeds at 45–60 cm row spacing and 5–10 cm plant spacing. Seed rate: 60–80 kg per acre. Sow at 3–4 cm depth, preferably at the beginning of the Kharif season after sufficient soil moisture is available.",
+        "completion_check": "Are seeds sown at correct spacing and depth?",
+        "highlights": [
+          "Uniform sowing ensures even germination and plant population.",
+          "Avoid waterlogged soils; soybean is sensitive to excess moisture.",
+          "Early sowing allows full crop growth and better pod formation."
+        ]
+      },
+      {
+        "title": "Part 3: Week 1–2 – Germination & Seedling Establishment",
+        "duration": "Approx. 2 weeks",
+        "description": "Seeds germinate within 5–7 days. Provide light irrigation to maintain soil moisture. Remove early weeds manually. Observe uniform seedling emergence and healthy growth.",
+        "completion_check": "Have seedlings emerged uniformly and grown to 4–6 inches?",
+        "highlights": [
+          "Avoid waterlogging; seedlings are sensitive to excess moisture.",
+          "Thin weak seedlings to maintain optimal plant population.",
+          "Monitor for damping-off and early pest attacks."
+        ]
+      },
+      {
+        "title": "Part 4: Week 3–5 – Vegetative Growth & Fertilization",
+        "duration": "Approx. 3 weeks",
+        "description": "Apply first top-dressing fertilizer if soil is deficient: 20–25 kg P₂O₅/acre. Maintain weed-free field and proper soil moisture.",
+        "completion_check": "Has fertilizer application and weeding been done?",
+        "highlights": [
+          "Phosphorus enhances root development and nodulation.",
+          "Weeding prevents competition and ensures nutrient availability.",
+          "Scout for early pests like aphids and leaf miners."
+        ]
+      },
+      {
+        "title": "Part 5: Week 6–8 – Flowering Initiation",
+        "duration": "Approx. 3 weeks",
+        "description": "Flowering starts. Maintain adequate soil moisture. Monitor for pests such as pod borer, aphids, and thrips. Remove weeds regularly.",
+        "completion_check": "Are flowers emerging uniformly and plants healthy?",
+        "highlights": [
+          "Critical stage for pod formation and yield.",
+          "Use bio-pesticides or neem-based sprays if pests are observed.",
+          "Avoid water stress during flowering to ensure good pod set."
+        ]
+      },
+      {
+        "title": "Part 6: Week 9–11 – Pod Formation & Grain Filling",
+        "duration": "Approx. 3 weeks",
+        "description": "Pods develop and grains start filling. Apply potassium fertilizer (10–15 kg K₂O/acre) if soil deficient. Maintain adequate moisture for proper grain filling.",
+        "completion_check": "Are pods forming and grains filling properly?",
+        "highlights": [
+          "Protect crop from pod borer, aphids, and leaf miners.",
+          "Avoid waterlogging; intermittent moisture is preferred.",
+          "Ensure sufficient nutrients for optimal grain filling."
+        ]
+      },
+      {
+        "title": "Part 7: Week 12–14 – Maturity",
+        "duration": "Approx. 2–3 weeks",
+        "description": "Stop irrigation 7–10 days before harvest. Allow pods to mature and grains to harden. Monitor for late-stage pests or fungal infections.",
+        "completion_check": "Are pods turning yellow and grains hardened?",
+        "highlights": [
+          "Harvest when 90% of pods are mature and dry.",
+          "Avoid premature harvesting to ensure maximum yield.",
+          "Field sanitation reduces post-harvest pest problems."
+        ]
+      },
+      {
+        "title": "Part 8: Harvesting",
+        "duration": "Approx. 1–2 weeks",
+        "description": "Harvest mature pods manually or mechanically when grains are fully mature. Sun-dry harvested pods before threshing.",
+        "completion_check": "Has harvesting been completed efficiently?",
+        "highlights": [
+          "Harvest in dry conditions to prevent mold and reduce losses.",
+          "Handle pods carefully to avoid seed damage.",
+          "Quick post-harvest handling maintains seed viability and quality."
+        ]
+      },
+      {
+        "title": "Part 9: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Clean, dry, and store grains in moisture-free, aerated conditions. Use jute or HDPE bags on raised platforms. Inspect stored grains regularly for pests.",
+        "completion_check": "Are grains properly dried and safely stored?",
+        "highlights": [
+          "Avoid damp storage to prevent mold or insect infestation.",
+          "Apply neem leaves or natural repellents for long-term storage.",
+          "Label bags with variety and harvest date."
+        ]
+      },
+      {
+        "title": "Part 10: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout the Crop Cycle",
+        "description": "Monitor for major pests like pod borer, aphids, leaf miner, and diseases such as yellow mosaic virus, powdery mildew, and root rot. Apply integrated pest and disease management practices as required.",
+        "completion_check": "Is the field free from major pest and disease outbreaks?",
+        "highlights": [
+          "Seed treatment reduces early fungal infections.",
+          "Regular scouting prevents severe pest outbreaks.",
+          "Crop rotation with cereals and legumes reduces soil-borne pests.",
+          "Use resistant varieties whenever possible."
+        ]
+      }
+    ]
+  },
+  "Tomato": {
+    "displayName": "Tomato",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Seed Treatment",
+        "duration": "Approx. 3–5 days",
+        "description": "Plough the field 2–3 times to get fine tilth. Incorporate 8–10 tons of well-decomposed FYM per acre. Treat seeds with fungicide (Thiram @2–3 g/kg) to prevent damping-off and soil-borne diseases.",
+        "completion_check": "Is the field prepared and seeds treated for sowing?",
+        "highlights": [
+          "Loamy soils with good drainage and pH 6–7 are ideal.",
+          "Proper land preparation ensures uniform seedling growth.",
+          "Seed treatment prevents early fungal infections."
+        ]
+      },
+      {
+        "title": "Part 2: Sowing / Nursery Preparation",
+        "duration": "Approx. 2–3 days",
+        "description": "Sow seeds in nursery beds or trays. Maintain spacing of 1–2 cm between seeds and 5 cm between rows. Germination occurs in 7–10 days. Water lightly to keep soil moist.",
+        "completion_check": "Are seedlings germinated uniformly and healthy?",
+        "highlights": [
+          "Uniform sowing ensures even crop establishment.",
+          "Nursery allows strong seedlings for transplanting.",
+          "Avoid waterlogging; overwatering can cause damping-off."
+        ]
+      },
+      {
+        "title": "Part 3: Transplanting",
+        "duration": "Approx. 1–2 days",
+        "description": "Transplant 25–30 day-old seedlings to the main field. Maintain spacing of 60–75 cm between rows and 45–60 cm between plants. Ensure seedlings are well-watered before transplanting.",
+        "completion_check": "Are seedlings transplanted at correct spacing and depth?",
+        "highlights": [
+          "Avoid transplant shock by watering seedlings and soil adequately.",
+          "Proper spacing allows good air circulation and reduces disease incidence.",
+          "Transplant during early morning or late evening to reduce stress."
+        ]
+      },
+      {
+        "title": "Part 4: Week 1–4 – Seedling Establishment & Early Growth",
+        "duration": "Approx. 4 weeks",
+        "description": "Irrigate regularly to keep soil moist. Apply starter fertilizer (10–15 kg N + 10 kg P₂O₅ per acre) lightly near plants. Remove weeds manually.",
+        "completion_check": "Are seedlings established and growing vigorously?",
+        "highlights": [
+          "Avoid overwatering; waterlogging promotes root rot.",
+          "Early fertilization supports strong root and leaf development.",
+          "Monitor for early pests like aphids and leaf miners."
+        ]
+      },
+      {
+        "title": "Part 5: Week 5–8 – Vegetative Growth & First Fertilizer",
+        "duration": "Approx. 4 weeks",
+        "description": "Apply first dose of NPK fertilizer (40 kg N, 20 kg P₂O₅, 20 kg K₂O per acre). Mulch around plants to conserve moisture. Train plants using stakes or trellis.",
+        "completion_check": "Has fertilizer application, mulching, and staking been done?",
+        "highlights": [
+          "Nitrogen promotes vegetative growth; phosphorus enhances root development; potassium improves disease resistance and fruit quality.",
+          "Mulching reduces weed competition and conserves moisture.",
+          "Proper staking prevents lodging and facilitates harvesting."
+        ]
+      },
+      {
+        "title": "Part 6: Week 9–12 – Flowering & Fruit Set",
+        "duration": "Approx. 4 weeks",
+        "description": "Flowers appear and fruit set begins. Maintain soil moisture and nutrient supply. Monitor for pests like whiteflies, aphids, and fruit borer. Apply second dose of fertilizer if needed.",
+        "completion_check": "Are flowers and initial fruits healthy?",
+        "highlights": [
+          "Avoid water stress to ensure proper fruit set.",
+          "Use pheromone traps or neem-based sprays for pest control.",
+          "Proper nutrition during flowering ensures higher yield."
+        ]
+      },
+      {
+        "title": "Part 7: Week 13–16 – Fruit Development",
+        "duration": "Approx. 4 weeks",
+        "description": "Fruits enlarge and mature. Apply potassium-rich fertilizer (20–25 kg K₂O per acre) for better fruit quality. Maintain irrigation and remove diseased or damaged fruits.",
+        "completion_check": "Are fruits developing properly and plants healthy?",
+        "highlights": [
+          "Potassium enhances fruit size, color, and shelf life.",
+          "Prune lower leaves to improve air circulation and reduce disease incidence.",
+          "Protect crop from fruit borer and bacterial wilt."
+        ]
+      },
+      {
+        "title": "Part 8: Week 17–20 – Maturity & Pre-Harvest",
+        "duration": "Approx. 3–4 weeks",
+        "description": "Fruits mature and start changing color. Reduce nitrogen application. Stop irrigation 2–3 days before harvest. Monitor for late-stage pests and diseases.",
+        "completion_check": "Are fruits fully matured and ready for harvest?",
+        "highlights": [
+          "Avoid excessive nitrogen; it delays ripening.",
+          "Harvest ripe fruits promptly to prevent over-ripening and pest damage.",
+          "Field sanitation reduces disease carryover."
+        ]
+      },
+      {
+        "title": "Part 9: Harvesting",
+        "duration": "Approx. 1–2 weeks",
+        "description": "Harvest fruits manually when fully colored and firm. Handle carefully to avoid bruising. Sort and grade fruits for market or processing.",
+        "completion_check": "Has harvesting been completed efficiently?",
+        "highlights": [
+          "Pick in the morning or evening to reduce heat stress.",
+          "Avoid mechanical damage to fruits during harvesting.",
+          "Immediate post-harvest handling maintains quality and shelf life."
+        ]
+      },
+      {
+        "title": "Part 10: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout the Crop Cycle",
+        "description": "Monitor for pests like fruit borer, whiteflies, aphids; and diseases such as bacterial wilt, early blight, and powdery mildew. Apply integrated pest and disease management (IPM) practices as required.",
+        "completion_check": "Is the crop free from major pest and disease outbreaks?",
+        "highlights": [
+          "Regular scouting prevents severe pest outbreaks.",
+          "Use resistant varieties whenever possible.",
+          "Field sanitation and timely interventions protect yield and fruit quality.",
+          "Biological controls and neem-based sprays reduce chemical dependence."
+        ]
+      }
+    ]
+  },
+  "Pigeon Pea (Tur/Arhar)": {
+    "displayName": "Pigeon Pea (Tur/Arhar)",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Seed Treatment",
+        "duration": "Approx. 3-4 days",
+        "description": "Plough the field 2-3 times to obtain a fine tilth. Incorporate 5-6 tons of FYM or compost per acre. Treat seeds with Rhizobium culture or fungicide (Thiram @3 g/kg) to prevent fungal diseases and enhance nodulation.",
+        "completion_check": "Is the field ready and seeds treated for sowing?",
+        "highlights": [
+          "Pigeon pea grows best in well-drained loamy soils with pH 6-8.",
+          "Good land preparation ensures uniform seed-soil contact.",
+          "Seed treatment promotes root nodulation and early growth."
+        ]
+      },
+      {
+        "title": "Part 2: Sowing",
+        "duration": "Approx. 2 days",
+        "description": "Sow seeds at 60-75 cm row spacing and 30-40 cm plant spacing. Use 15-20 kg seed per acre. Sow at 5-6 cm depth. Prefer early Kharif or Rabi season depending on region.",
+        "completion_check": "Are seeds sown at proper spacing and depth?",
+        "highlights": [
+          "Ensure uniform spacing to prevent competition.",
+          "Avoid waterlogged soils; pigeon pea is drought-tolerant but sensitive to excess water.",
+          "Early sowing ensures better flowering and pod set."
+        ]
+      },
+      {
+        "title": "Part 3: Week 1-3 – Germination & Seedling Establishment",
+        "duration": "Approx. 3 weeks",
+        "description": "Seeds germinate within 7-10 days. Provide light irrigation if required. Remove early weeds manually. Check for uniform emergence and healthy seedlings.",
+        "completion_check": "Have seedlings emerged uniformly and are 4-5 inches tall?",
+        "highlights": [
+          "Avoid waterlogging; pigeon pea roots are sensitive.",
+          "Thin weak seedlings to maintain optimal plant population.",
+          "Monitor for damping-off disease and treat if necessary."
+        ]
+      },
+      {
+        "title": "Part 4: Week 4-6 – Vegetative Growth & First Fertilizer",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Apply first dose of nitrogen (10-15 kg/acre) and phosphorus (20-25 kg/acre) if soil is deficient. Keep fields weed-free and ensure proper soil moisture.",
+        "completion_check": "Has first fertilization and weeding been done?",
+        "highlights": [
+          "Nitrogen promotes vegetative growth; phosphorus supports root development.",
+          "Weeding prevents nutrient competition.",
+          "Inspect for early pest infestation such as aphids or leaf miner."
+        ]
+      },
+      {
+        "title": "Part 5: Week 7-9 – Flowering Initiation",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Flowering starts. Maintain proper moisture and nutrient supply. Avoid stress as it reduces pod set. Monitor for pests such as pod borer and aphids.",
+        "completion_check": "Are flowers emerging uniformly and plants healthy?",
+        "highlights": [
+          "Critical stage for pod set; stress reduces yield.",
+          "Use neem-based sprays or bio-pesticides if pests are observed.",
+          "Keep fields weed-free to reduce competition for nutrients."
+        ]
+      },
+      {
+        "title": "Part 6: Week 10-13 – Pod Formation & Grain Filling",
+        "duration": "Approx. 3-4 weeks",
+        "description": "Pods develop and grains start filling. Apply potassium fertilizer (20 kg K₂O/acre) if deficient. Ensure moisture is sufficient but avoid waterlogging.",
+        "completion_check": "Are pods developing well and filling properly?",
+        "highlights": [
+          "Protect crop from pod borer and aphids.",
+          "Monitor for wilt or sterility mosaic virus.",
+          "Avoid excessive irrigation; intermittent moisture is preferred."
+        ]
+      },
+      {
+        "title": "Part 7: Week 14-16 – Maturity",
+        "duration": "Approx. 2 weeks",
+        "description": "Stop irrigation 10-12 days before harvest. Allow pods to mature and grains to harden. Monitor for late-stage pest attacks.",
+        "completion_check": "Are pods turning brown and grains hardened?",
+        "highlights": [
+          "Harvest when 90% of pods are brown and dry.",
+          "Avoid premature harvesting as it reduces seed weight.",
+          "Field sanitation reduces post-harvest pest problems."
+        ]
+      },
+      {
+        "title": "Part 8: Week 17-18 – Harvesting",
+        "duration": "Approx. 1-2 weeks",
+        "description": "Cut plants at base or pull plants carefully. Dry pods in the sun before threshing. Use manual or mechanical threshers depending on field scale.",
+        "completion_check": "Have plants been harvested and grains dried properly?",
+        "highlights": [
+          "Sun-dry harvested pods for 3-4 days to reduce moisture to 12%.",
+          "Avoid harvesting during rain to prevent fungal growth.",
+          "Handle pods gently to avoid shattering."
+        ]
+      },
+      {
+        "title": "Part 9: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Clean, dry, and store grains in moisture-free conditions. Store in jute or HDPE bags on raised platforms. Inspect stored grains regularly for pests.",
+        "completion_check": "Are grains clean, dry, and safely stored?",
+        "highlights": [
+          "Avoid damp storage to prevent mold or insect infestation.",
+          "Apply neem leaves or natural repellents for long-term storage.",
+          "Label bags with variety and harvest date."
+        ]
+      },
+      {
+        "title": "Part 10: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout the Crop Cycle",
+        "description": "Monitor for major pests like pod borer, aphids, leaf miner, and diseases such as Fusarium wilt, sterility mosaic, and Phytophthora blight. Apply integrated pest management (IPM) practices as required.",
+        "completion_check": "Is the field free from major pest and disease outbreaks?",
+        "highlights": [
+          "Seed treatment reduces early fungal infection.",
+          "Regular scouting prevents severe pest outbreaks.",
+          "Crop rotation with cereals and legumes reduces soil-borne pests.",
+          "Use resistant varieties whenever possible."
+        ]
+      }
+    ]
+  },
+  "Turmeric": {
+    "displayName": "Turmeric",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Rhizome Selection",
+        "duration": "Approx. 4–5 days",
+        "description": "Plough the field 2–3 times to achieve fine tilth. Incorporate 8–10 tons of well-decomposed FYM per acre. Select healthy, disease-free rhizomes for planting. Cut rhizomes into 2–3 cm pieces with at least one bud each.",
+        "completion_check": "Is the field prepared and rhizomes selected and cut for planting?",
+        "highlights": [
+          "Loamy soils rich in organic matter with pH 5.5–6.5 are ideal.",
+          "Good land preparation ensures uniform sprouting and root development.",
+          "Healthy rhizomes prevent disease carryover and promote vigorous growth."
+        ]
+      },
+      {
+        "title": "Part 2: Planting",
+        "duration": "Approx. 2–3 days",
+        "description": "Plant rhizomes in ridges or raised beds at 30–45 cm row spacing and 20–25 cm plant spacing. Plant at 5–7 cm depth with buds facing upward. Planting is usually done at the beginning of the rainy season or with adequate soil moisture.",
+        "completion_check": "Are rhizomes planted at proper spacing and depth?",
+        "highlights": [
+          "Proper spacing ensures good rhizome development and aeration.",
+          "Plant during early rains or when soil moisture is adequate.",
+          "Bud orientation affects sprouting success."
+        ]
+      },
+      {
+        "title": "Part 3: Week 1–4 – Sprouting & Early Growth",
+        "duration": "Approx. 4 weeks",
+        "description": "Rhizomes sprout in 2–4 weeks. Maintain light irrigation to keep soil moist. Remove weeds manually and avoid soil crusting.",
+        "completion_check": "Are sprouts emerging uniformly and growing well?",
+        "highlights": [
+          "Avoid waterlogging; turmeric is sensitive to excess moisture.",
+          "Ensure proper weed control to reduce nutrient competition.",
+          "Monitor for early pests like shoot borer and leaf rollers."
+        ]
+      },
+      {
+        "title": "Part 4: Week 5–10 – Vegetative Growth & Fertilizer Application",
+        "duration": "Approx. 6 weeks",
+        "description": "Apply NPK fertilizer: 40–50 kg N, 20 kg P₂O₅, 40 kg K₂O per acre. Maintain regular irrigation (once every 7–10 days or as per soil moisture). Apply organic mulches to conserve moisture and control weeds.",
+        "completion_check": "Has fertilizer application, irrigation, and mulching been done?",
+        "highlights": [
+          "Nitrogen promotes leafy growth, potassium supports rhizome development.",
+          "Mulching reduces moisture loss and weed pressure.",
+          "Regular irrigation ensures consistent vegetative growth."
+        ]
+      },
+      {
+        "title": "Part 5: Week 11–16 – Flowering & Rhizome Development",
+        "duration": "Approx. 6 weeks",
+        "description": "Flowering starts; focus on rhizome development. Maintain soil moisture and nutrient supply. Monitor for pests like shoot borer and scale insects. Apply second dose of fertilizer if needed.",
+        "completion_check": "Are plants flowering and rhizomes developing properly?",
+        "highlights": [
+          "Potassium enhances rhizome size and quality.",
+          "Proper moisture is critical for rhizome growth.",
+          "Pest scouting prevents damage during early rhizome formation."
+        ]
+      },
+      {
+        "title": "Part 6: Week 17–24 – Maturation & Pre-Harvest Care",
+        "duration": "Approx. 8 weeks",
+        "description": "Leaves start turning yellow and drying. Reduce irrigation gradually to allow rhizome curing in soil. Remove diseased plants to prevent spread.",
+        "completion_check": "Are plants maturing and rhizomes ready for harvest?",
+        "highlights": [
+          "Allow leaves to yellow naturally for better rhizome quality.",
+          "Reduce water to avoid rhizome rot.",
+          "Field sanitation prevents late-stage diseases."
+        ]
+      },
+      {
+        "title": "Part 7: Harvesting",
+        "duration": "Approx. 1–2 weeks",
+        "description": "Harvest mature rhizomes manually or with tools. Lift carefully to avoid injury. Typically harvested 8–10 months after planting.",
+        "completion_check": "Have rhizomes been harvested properly?",
+        "highlights": [
+          "Harvest when 75–80% of leaves are dried.",
+          "Avoid mechanical damage to rhizomes to maintain quality.",
+          "Timely harvest reduces pest and fungal infection."
+        ]
+      },
+      {
+        "title": "Part 8: Post-Harvest Handling & Storage",
+        "duration": "Approx. 1 week",
+        "description": "Clean and wash harvested rhizomes. Cure in shade for 7–10 days. Store in well-ventilated, dry areas or prepare for market processing.",
+        "completion_check": "Are rhizomes cleaned, cured, and stored properly?",
+        "highlights": [
+          "Shade drying reduces fungal growth and preserves color.",
+          "Store in dry, ventilated conditions to maintain quality.",
+          "Label batches with variety and harvest date."
+        ]
+      },
+      {
+        "title": "Part 9: Pest & Disease Management (Ongoing)",
+        "duration": "Throughout the Crop Cycle",
+        "description": "Monitor for pests like shoot borer, scale insects, rhizome fly; and diseases like leaf blotch, rhizome rot, and turmeric mosaic virus. Apply integrated pest management (IPM) practices as required.",
+        "completion_check": "Is the crop free from major pest and disease outbreaks?",
+        "highlights": [
+          "Regular scouting prevents severe pest outbreaks.",
+          "Seed/rhizome treatment reduces early fungal infections.",
+          "Field sanitation and crop rotation reduce soil-borne diseases.",
+          "Use resistant varieties and biological controls where possible."
+        ]
+      }
+    ]
+  },
+  "Wheat": {
+    "displayName": "Wheat",
+    "plan": [
+      {
+        "title": "Part 1: Land Preparation & Seed Treatment",
+        "duration": "Approx. 3-5 days",
+        "description": "Plough the field 2-3 times to obtain fine tilth. Incorporate 8-10 tons of FYM per acre. Level the field properly. Treat seeds with fungicide (Carbendazim @2-3 g/kg) to prevent seed-borne diseases.",
+        "completion_check": "Has the field been prepared and seeds treated for sowing?",
+        "highlights": [
+          "Ensure well-drained loamy soils with pH 6-7.5 for optimal growth.",
+          "Good land preparation improves seed-soil contact.",
+          "FYM incorporation enhances soil fertility and moisture retention."
+        ]
+      },
+      {
+        "title": "Part 2: Sowing",
+        "duration": "Approx. 1-2 days",
+        "description": "Sow seeds using a seed drill or by broadcasting at 20-25 cm row spacing and 5-7 cm between plants. Seed rate: 100–125 kg/acre for irrigated, 80–100 kg/acre for rainfed. Sow at 2-3 cm depth for proper germination.",
+        "completion_check": "Are seeds sown at proper spacing and depth?",
+        "highlights": [
+          "Opt for early sowing in Rabi season (October–November).",
+          "Uniform sowing ensures even crop emergence.",
+          "Avoid sowing in waterlogged fields."
+        ]
+      },
+      {
+        "title": "Part 3: Week 1-3 – Germination & Seedling Establishment",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Seeds germinate within 7–10 days. Maintain light irrigation to ensure soil moisture. Remove weeds manually if present. Observe uniform emergence of seedlings.",
+        "completion_check": "Have seedlings emerged uniformly and are 3-4 inches tall?",
+        "highlights": [
+          "Avoid overwatering; wheat is sensitive to waterlogging.",
+          "Thin weak seedlings to maintain proper plant population.",
+          "Check for early signs of pests like aphids and cutworms."
+        ]
+      },
+      {
+        "title": "Part 4: Week 4-6 – Tillering & First Fertilizer",
+        "duration": "Approx. 2-3 weeks",
+        "description": "First top dressing of nitrogen (25–30 kg/acre) is applied when seedlings have 3–4 leaves. Keep fields weed-free and maintain adequate moisture.",
+        "completion_check": "Has first nitrogen application and weeding been completed?",
+        "highlights": [
+          "Nitrogen promotes tillering and vegetative growth.",
+          "Manual weeding is preferred to protect seedlings.",
+          "Monitor for aphids, armyworms, or leaf spot infections."
+        ]
+      },
+      {
+        "title": "Part 5: Week 7-9 – Stem Elongation & Fertilizer Application",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Apply second top dressing of nitrogen (25–30 kg/acre) and 10–15 kg K₂O/acre. Irrigate as needed to maintain soil moisture for optimum growth.",
+        "completion_check": "Has second fertilizer application been done and is crop growing vigorously?",
+        "highlights": [
+          "Nitrogen promotes stem elongation and leaf area expansion.",
+          "Irrigate moderately; avoid water stress during elongation.",
+          "Scout for stem rust, leaf rust, and aphid infestations."
+        ]
+      },
+      {
+        "title": "Part 6: Week 10-12 – Booting & Flag Leaf Emergence",
+        "duration": "Approx. 2 weeks",
+        "description": "Flag leaf emerges, and booting stage begins. Ensure sufficient water supply. Monitor pests and diseases. Avoid heavy irrigation to prevent lodging.",
+        "completion_check": "Is the flag leaf fully emerged and healthy?",
+        "highlights": [
+          "Critical stage for grain yield; maintain optimal nutrition and moisture.",
+          "Control leaf rust and powdery mildew with fungicides if necessary.",
+          "Avoid mechanical damage or lodging during this stage."
+        ]
+      },
+      {
+        "title": "Part 7: Week 13-15 – Flowering & Grain Formation",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Flowering begins. Ensure moisture is adequate during anthesis for proper pollination. Monitor for pests like aphids and armyworm.",
+        "completion_check": "Are ears flowering and grains forming properly?",
+        "highlights": [
+          "Avoid nitrogen application now; it can delay maturation.",
+          "Prevent water stress during flowering for maximum grain set.",
+          "Scout for Hessian fly and leaf rust."
+        ]
+      },
+      {
+        "title": "Part 8: Week 16-18 – Grain Filling & Maturity",
+        "duration": "Approx. 2-3 weeks",
+        "description": "Grains fill and mature. Reduce irrigation gradually to allow grains to harden. Monitor for fungal diseases like loose smut and leaf rust.",
+        "completion_check": "Are grains filling well and beginning to mature?",
+        "highlights": [
+          "Stop irrigation 10-15 days before harvest to enhance grain hardening.",
+          "Protect crop from birds and late pest infestations.",
+          "Field sanitation reduces fungal infections."
+        ]
+      },
+      {
+        "title": "Part 9: Harvesting",
+        "duration": "Approx. 1-2 weeks",
+        "description": "Harvest when grains are hard and straw is yellow-brown. Cut plants at base or use combine harvester. Thresh and dry grains properly before storage.",
+        "completion_check": "Are grains dry, hard, and ready for storage?",
+        "highlights": [
+          "Harvest during dry weather to prevent fungal growth.",
+          "Sun-dry grains to 12-14% moisture for safe storage.",
+          "Avoid excessive mechanical damage during threshing."
+        ]
+      },
+      {
+        "title": "Part 10: Post-Harvest Handling & Pest Management",
+        "duration": "Approx. 1 week",
+        "description": "Clean, dry, and store grains in moisture-free, aerated conditions. Monitor stored grains for pests. Apply natural repellents or chemical treatments if necessary.",
+        "completion_check": "Are grains properly dried and safely stored?",
+        "highlights": [
+          "Use jute or HDPE bags on raised platforms.",
+          "Inspect grains periodically for insects or mold.",
+          "Maintain records of harvest and storage date."
+        ]
+      }
+    ]
+  }
+}

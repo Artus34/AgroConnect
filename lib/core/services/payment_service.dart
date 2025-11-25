@@ -30,6 +30,12 @@ class PaymentService {
   UserModel? _buyer;
   int? _quantity;
   double? _totalPrice;
+  // --- NEW ADDRESS FIELDS ---
+  String? _shippingAddress;
+  String? _city;
+  String? _state;
+  String? _postalCode;
+  // --------------------------
 
   // 1. Initialize the service
   PaymentService() {
@@ -44,13 +50,19 @@ class PaymentService {
     _razorpay.clear(); // Removes all listeners
   }
 
-  // 3. Open the checkout
+  // 3. Open the checkout (UPDATED METHOD SIGNATURE)
   void openCheckout({
     required BuildContext context,
     required ListingModel listing,
     required UserModel buyer,
     required int quantity,
     required double totalPrice,
+    // --- NEW ADDRESS PARAMETERS ---
+    required String shippingAddress,
+    required String city,
+    required String state,
+    required String postalCode,
+    // ------------------------------
   }) {
     // Store all the necessary data in member variables
     _context = context;
@@ -58,6 +70,13 @@ class PaymentService {
     _buyer = buyer;
     _quantity = quantity;
     _totalPrice = totalPrice;
+    // --- STORE NEW ADDRESS DATA ---
+    _shippingAddress = shippingAddress;
+    _city = city;
+    _state = state;
+    _postalCode = postalCode;
+    // ------------------------------
+    
     // Get the SalesProvider from the context
     _salesProvider = context.read<SalesProvider>();
 
@@ -80,6 +99,9 @@ class PaymentService {
         'listingId': listing.listingId,
         'buyerId': buyer.uid,
         'sellerId': listing.sellerId,
+        // Optional: Include address notes in payment metadata if useful for reconciliation
+        'shippingAddress': shippingAddress,
+        'postalCode': postalCode,
       }
     };
 
@@ -102,15 +124,22 @@ class PaymentService {
         _listing == null ||
         _buyer == null ||
         _quantity == null ||
-        _totalPrice == null) {
+        _totalPrice == null ||
+        // --- CHECK NEW ADDRESS FIELDS ---
+        _shippingAddress == null ||
+        _city == null ||
+        _state == null ||
+        _postalCode == null) {
+        // ----------------------------------
       // This should not happen if openCheckout was called correctly
-      debugPrint("Error: Payment context is lost.");
+      debugPrint("Error: Payment context or required data is lost.");
       return;
     }
 
     PaymentUtils.showSnackBar(_context!, "Payment Successful!");
 
     // Call the SalesProvider to create the real transaction in Firebase
+    // (UPDATED CALL WITH NEW ADDRESS PARAMETERS)
     _salesProvider!.createTransaction(
       listing: _listing!,
       buyer: _buyer!,
@@ -118,6 +147,12 @@ class PaymentService {
       totalPrice: _totalPrice!,
       paymentId: response.paymentId ?? '',
       orderId: response.orderId ?? '',
+      // --- PASS NEW ADDRESS DATA ---
+      shippingAddress: _shippingAddress!,
+      city: _city!,
+      state: _state!,
+      postalCode: _postalCode!,
+      // -----------------------------
     );
 
     // Optional: Navigate to the transaction history or a success screen

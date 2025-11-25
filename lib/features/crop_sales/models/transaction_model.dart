@@ -26,6 +26,12 @@ class TransactionModel {
   final String orderId;
   final String paymentStatus;
 
+  // --- NEW FIELDS ADDED FOR SHIPPING ADDRESS ---
+  final String shippingAddress;
+  final String city;
+  final String state;
+  final String postalCode;
+
   TransactionModel({
     required this.transactionId,
     required this.listingId,
@@ -40,11 +46,17 @@ class TransactionModel {
     required this.buyerId,
     required this.buyerName,
     required this.timestamp,
-    
+
     // --- FIELDS ADDED FOR RAZORPAY ---
     required this.paymentId,
     required this.orderId,
     required this.paymentStatus,
+
+    // --- NEW FIELDS ADDED FOR SHIPPING ADDRESS ---
+    required this.shippingAddress,
+    required this.city,
+    required this.state,
+    required this.postalCode,
   });
 
   factory TransactionModel.fromMap(Map<String, dynamic> map) {
@@ -68,12 +80,17 @@ class TransactionModel {
       buyerId: map['buyerId'] ?? '',
       buyerName: map['buyerName'] ?? '',
       timestamp: map['timestamp'] ?? Timestamp.now(),
-      
+
       // --- FIELDS ADDED FOR RAZORPAY ---
-      // We add default empty strings for safety, just like your other fields.
       paymentId: map['paymentId'] ?? '',
       orderId: map['orderId'] ?? '',
       paymentStatus: map['paymentStatus'] ?? '',
+
+      // --- NEW FIELDS ADDED FOR SHIPPING ADDRESS ---
+      shippingAddress: map['shippingAddress'] ?? '',
+      city: map['city'] ?? '',
+      state: map['state'] ?? '',
+      postalCode: map['postalCode'] ?? '',
     );
   }
 
@@ -92,11 +109,17 @@ class TransactionModel {
       'buyerId': buyerId,
       'buyerName': buyerName,
       'timestamp': timestamp,
-      
+
       // --- FIELDS ADDED FOR RAZORPAY ---
       'paymentId': paymentId,
       'orderId': orderId,
       'paymentStatus': paymentStatus,
+
+      // --- NEW FIELDS ADDED FOR SHIPPING ADDRESS ---
+      'shippingAddress': shippingAddress,
+      'city': city,
+      'state': state,
+      'postalCode': postalCode,
     };
   }
 }

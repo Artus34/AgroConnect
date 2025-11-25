@@ -1,0 +1,785 @@
+[
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahata",
+        "Commodity":"Bottle gourd",
+        "Min Price":1000,
+        "Max Price":1000,
+        "Modal Price":1000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahata",
+        "Commodity":"Tomato",
+        "Min Price":500,
+        "Max Price":2000,
+        "Modal Price":1300
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Nagpur",
+        "Market":"Kalmeshwar",
+        "Commodity":"Green Chilli",
+        "Min Price":4615,
+        "Max Price":5000,
+        "Modal Price":4835
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Apple",
+        "Min Price":16000,
+        "Max Price":20000,
+        "Modal Price":18000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Banana",
+        "Min Price":3000,
+        "Max Price":8000,
+        "Modal Price":5500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Carrot",
+        "Min Price":2500,
+        "Max Price":3000,
+        "Modal Price":2750
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Ginger(Green)",
+        "Min Price":3000,
+        "Max Price":4000,
+        "Modal Price":3500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Green Chilli",
+        "Min Price":3000,
+        "Max Price":4000,
+        "Modal Price":3500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Lime",
+        "Min Price":3000,
+        "Max Price":4000,
+        "Modal Price":3500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Beans",
+        "Min Price":3000,
+        "Max Price":4000,
+        "Modal Price":3500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Beetroot",
+        "Min Price":2000,
+        "Max Price":2000,
+        "Modal Price":2000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Cucumbar(Kheera)",
+        "Min Price":1400,
+        "Max Price":1400,
+        "Modal Price":1400
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Raigad",
+        "Market":"Murud",
+        "Commodity":"Rice",
+        "Min Price":2500,
+        "Max Price":2700,
+        "Modal Price":2600
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Satara",
+        "Market":"Vai",
+        "Commodity":"Tomato",
+        "Min Price":2000,
+        "Max Price":4500,
+        "Modal Price":3200
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahata",
+        "Commodity":"Garlic",
+        "Min Price":4000,
+        "Max Price":6000,
+        "Modal Price":5000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Nagpur",
+        "Market":"Kalmeshwar",
+        "Commodity":"Bhindi(Ladies Finger)",
+        "Min Price":1110,
+        "Max Price":1500,
+        "Modal Price":1345
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Nagpur",
+        "Market":"Kalmeshwar",
+        "Commodity":"Brinjal",
+        "Min Price":620,
+        "Max Price":1000,
+        "Modal Price":830
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Nagpur",
+        "Market":"Kalmeshwar",
+        "Commodity":"Coriander(Leaves)",
+        "Min Price":7625,
+        "Max Price":8000,
+        "Modal Price":7850
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Amla(Nelli Kai)",
+        "Min Price":5000,
+        "Max Price":5000,
+        "Modal Price":5000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Elephant Yam (Suran)",
+        "Min Price":6000,
+        "Max Price":6000,
+        "Modal Price":6000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Guar",
+        "Min Price":4000,
+        "Max Price":5000,
+        "Modal Price":4500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Papaya",
+        "Min Price":2500,
+        "Max Price":2500,
+        "Modal Price":2500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Pointed gourd (Parval)",
+        "Min Price":4000,
+        "Max Price":5000,
+        "Modal Price":4500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Pomegranate",
+        "Min Price":10000,
+        "Max Price":12000,
+        "Modal Price":11000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Ridgeguard(Tori)",
+        "Min Price":3000,
+        "Max Price":4000,
+        "Modal Price":3500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Spinach",
+        "Min Price":7,
+        "Max Price":8,
+        "Modal Price":8
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Tomato",
+        "Min Price":1500,
+        "Max Price":3000,
+        "Modal Price":2250
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Brinjal",
+        "Min Price":3000,
+        "Max Price":3500,
+        "Modal Price":3250
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Guar",
+        "Min Price":4000,
+        "Max Price":6000,
+        "Modal Price":5000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Tomato",
+        "Min Price":3000,
+        "Max Price":3500,
+        "Modal Price":3250
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Satara",
+        "Market":"Vai",
+        "Commodity":"Cauliflower",
+        "Min Price":1800,
+        "Max Price":2200,
+        "Modal Price":2000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Satara",
+        "Market":"Vai",
+        "Commodity":"Onion",
+        "Min Price":1500,
+        "Max Price":2200,
+        "Modal Price":1800
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahata",
+        "Commodity":"Bitter gourd",
+        "Min Price":500,
+        "Max Price":2000,
+        "Modal Price":1300
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahata",
+        "Commodity":"Cauliflower",
+        "Min Price":300,
+        "Max Price":1000,
+        "Modal Price":700
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahata",
+        "Commodity":"Chilly Capsicum",
+        "Min Price":1000,
+        "Max Price":3000,
+        "Modal Price":2000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahata",
+        "Commodity":"Guar",
+        "Min Price":7500,
+        "Max Price":10000,
+        "Modal Price":8300
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahata",
+        "Commodity":"Potato",
+        "Min Price":1200,
+        "Max Price":1300,
+        "Modal Price":1250
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Nagpur",
+        "Market":"Kalmeshwar",
+        "Commodity":"Spinach",
+        "Min Price":605,
+        "Max Price":1000,
+        "Modal Price":825
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Beetroot",
+        "Min Price":1000,
+        "Max Price":2000,
+        "Modal Price":1500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Bitter gourd",
+        "Min Price":3000,
+        "Max Price":4000,
+        "Modal Price":3500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Brinjal",
+        "Min Price":2000,
+        "Max Price":3000,
+        "Modal Price":2500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Cabbage",
+        "Min Price":500,
+        "Max Price":700,
+        "Modal Price":600
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Cauliflower",
+        "Min Price":1000,
+        "Max Price":1500,
+        "Modal Price":1250
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Chilly Capsicum",
+        "Min Price":2000,
+        "Max Price":4000,
+        "Modal Price":3000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Drumstick",
+        "Min Price":4000,
+        "Max Price":6000,
+        "Modal Price":5000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Methi(Leaves)",
+        "Min Price":8,
+        "Max Price":10,
+        "Modal Price":9
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Orange",
+        "Min Price":7000,
+        "Max Price":7000,
+        "Modal Price":7000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Peas Wet",
+        "Min Price":6000,
+        "Max Price":7000,
+        "Modal Price":6500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Pineapple",
+        "Min Price":5000,
+        "Max Price":5000,
+        "Modal Price":5000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Bhindi(Ladies Finger)",
+        "Min Price":2000,
+        "Max Price":4000,
+        "Modal Price":3000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Cabbage",
+        "Min Price":800,
+        "Max Price":1200,
+        "Modal Price":1000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Cauliflower",
+        "Min Price":2200,
+        "Max Price":2200,
+        "Modal Price":2200
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Onion",
+        "Min Price":1000,
+        "Max Price":1500,
+        "Modal Price":1250
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Satara",
+        "Market":"Vai",
+        "Commodity":"Potato",
+        "Min Price":2000,
+        "Max Price":2600,
+        "Modal Price":2300
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahata",
+        "Commodity":"Cabbage",
+        "Min Price":300,
+        "Max Price":1000,
+        "Modal Price":700
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahata",
+        "Commodity":"Ginger(Green)",
+        "Min Price":2000,
+        "Max Price":5000,
+        "Modal Price":3500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahuri",
+        "Commodity":"Tomato",
+        "Min Price":1500,
+        "Max Price":2500,
+        "Modal Price":2000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Nagpur",
+        "Market":"Kalmeshwar",
+        "Commodity":"Tomato",
+        "Min Price":3610,
+        "Max Price":4000,
+        "Modal Price":3820
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Beans",
+        "Min Price":3000,
+        "Max Price":4000,
+        "Modal Price":3500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Cucumbar(Kheera)",
+        "Min Price":1000,
+        "Max Price":2000,
+        "Modal Price":1500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Garlic",
+        "Min Price":6000,
+        "Max Price":7000,
+        "Modal Price":6500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Little gourd (Kundru)",
+        "Min Price":4000,
+        "Max Price":4000,
+        "Modal Price":4000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Mint(Pudina)",
+        "Min Price":5,
+        "Max Price":5,
+        "Modal Price":5
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Onion",
+        "Min Price":700,
+        "Max Price":1500,
+        "Modal Price":1100
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Potato",
+        "Min Price":1300,
+        "Max Price":1600,
+        "Modal Price":1450
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Raddish",
+        "Min Price":15,
+        "Max Price":15,
+        "Modal Price":15
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Sweet Potato",
+        "Min Price":4000,
+        "Max Price":4000,
+        "Modal Price":4000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Bottle gourd",
+        "Min Price":1000,
+        "Max Price":3000,
+        "Modal Price":2000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Raddish",
+        "Min Price":6,
+        "Max Price":8,
+        "Modal Price":7
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Spinach",
+        "Min Price":6,
+        "Max Price":8,
+        "Modal Price":7
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Satara",
+        "Market":"Vai",
+        "Commodity":"Brinjal",
+        "Min Price":2000,
+        "Max Price":2500,
+        "Modal Price":2250
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Satara",
+        "Market":"Vai",
+        "Commodity":"Cabbage",
+        "Min Price":800,
+        "Max Price":1100,
+        "Modal Price":1000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahata",
+        "Commodity":"Bhindi(Ladies Finger)",
+        "Min Price":1000,
+        "Max Price":5100,
+        "Modal Price":3100
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahata",
+        "Commodity":"Green Chilli",
+        "Min Price":2500,
+        "Max Price":5000,
+        "Modal Price":3700
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Ahmednagar",
+        "Market":"Rahata",
+        "Commodity":"Green Peas",
+        "Min Price":7000,
+        "Max Price":8500,
+        "Modal Price":7700
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Nagpur",
+        "Market":"Kalmeshwar",
+        "Commodity":"Cabbage",
+        "Min Price":1610,
+        "Max Price":2000,
+        "Modal Price":1840
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Bhindi(Ladies Finger)",
+        "Min Price":2000,
+        "Max Price":3000,
+        "Modal Price":2500
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Bottle gourd",
+        "Min Price":1500,
+        "Max Price":2000,
+        "Modal Price":1750
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Chikoos(Sapota)",
+        "Min Price":5000,
+        "Max Price":5000,
+        "Modal Price":5000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Coriander(Leaves)",
+        "Min Price":5,
+        "Max Price":8,
+        "Modal Price":7
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Moshi)",
+        "Commodity":"Onion Green",
+        "Min Price":15,
+        "Max Price":15,
+        "Modal Price":15
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Coriander(Leaves)",
+        "Min Price":6,
+        "Max Price":9,
+        "Modal Price":8
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Pune",
+        "Market":"Pune(Pimpri)",
+        "Commodity":"Ridgeguard(Tori)",
+        "Min Price":3000,
+        "Max Price":3000,
+        "Modal Price":3000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Raigad",
+        "Market":"Alibagh",
+        "Commodity":"Rice",
+        "Min Price":2500,
+        "Max Price":2700,
+        "Modal Price":2600
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Satara",
+        "Market":"Vai",
+        "Commodity":"Bhindi(Ladies Finger)",
+        "Min Price":3000,
+        "Max Price":3500,
+        "Modal Price":3200
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Satara",
+        "Market":"Vai",
+        "Commodity":"Ginger(Green)",
+        "Min Price":3500,
+        "Max Price":4500,
+        "Modal Price":4000
+    },
+    {
+        "State":"Maharashtra",
+        "District":"Satara",
+        "Market":"Vai",
+        "Commodity":"Green Chilli",
+        "Min Price":5000,
+        "Max Price":6000,
+        "Modal Price":5500
+    }
+]

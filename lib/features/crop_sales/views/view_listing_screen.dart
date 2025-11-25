@@ -8,6 +8,7 @@ import '../../../core/services/payment_service.dart'; // --- IMPORT ADDED ---
 import '../../auth/controllers/auth_provider.dart';
 import '../controllers/sales_provider.dart';
 import '../models/listing_model.dart';
+import 'address_input_screen.dart'; // <<<--- NEW IMPORT ADDED HERE
 
 class ViewListingScreen extends StatefulWidget {
   final ListingModel listing;
@@ -36,7 +37,7 @@ class _ViewListingScreenState extends State<ViewListingScreen> {
   }
   // --- END OF PAYMENT SERVICE INITIALIZATION ---
 
-  // --- UPDATED LOGIC TO CALL RAZORPAY ---
+  // --- UPDATED LOGIC TO NAVIGATE TO ADDRESS SCREEN (MODIFIED) ---
   Future<void> _buyNow(BuildContext context) async {
     // 1. Validate quantity
     if (_selectedQuantity <= 0 || _selectedQuantity > widget.listing.quantity) {
@@ -66,19 +67,17 @@ class _ViewListingScreenState extends State<ViewListingScreen> {
     // 3. Calculate total price
     final double totalPrice = widget.listing.price * _selectedQuantity;
 
-    // 4. Call the PaymentService to open the Razorpay checkout
-    // This replaces your old 'salesProvider.purchaseItem' call
-    _paymentService.openCheckout(
-      context: context,
-      listing: widget.listing,
-      buyer: buyer,
-      quantity: _selectedQuantity,
-      totalPrice: totalPrice,
+    // 4. NAVIGATE TO THE ADDRESS INPUT SCREEN (INSTEAD OF DIRECT PAYMENT)
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (ctx) => AddressInputScreen(
+          listing: widget.listing,
+          quantity: _selectedQuantity,
+          totalPrice: totalPrice,
+          buyer: buyer, // Pass the buyer model
+        ),
+      ),
     );
-
-    // We remove the old success/error logic from here.
-    // The PaymentService's listeners (_handlePaymentSuccess, _handlePaymentError)
-    // will automatically handle showing snackbars and saving the transaction.
   }
   // --- END OF UPDATED LOGIC ---
 

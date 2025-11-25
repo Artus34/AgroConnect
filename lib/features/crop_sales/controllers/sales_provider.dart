@@ -237,11 +237,17 @@ class SalesProvider with ChangeNotifier {
         buyerId: _currentUser!.uid,
         buyerName: _currentUser!.name,
         timestamp: purchaseTimestamp,
-        
+
         // --- NOTE: These fields are missing in your old model ---
         paymentId: 'dummy_payment', // Dummy data
         orderId: 'dummy_order', // Dummy data
         paymentStatus: 'dummy', // Dummy data
+        // --- Added Dummy Address Data for consistency with new TransactionModel ---
+        shippingAddress: 'Dummy Street Address', 
+        city: 'Dummy City', 
+        state: 'Dummy State', 
+        postalCode: '000000',
+        // --------------------------------------------------------------------------
       );
 
       final topLevelTransactionRef =
@@ -270,7 +276,7 @@ class SalesProvider with ChangeNotifier {
     }
   }
 
-  // --- THIS IS THE NEW METHOD CALLED BY PaymentService ---
+  // --- THIS IS THE NEW METHOD CALLED BY PaymentService (UPDATED) ---
   Future<void> createTransaction({
     required ListingModel listing,
     required UserModel buyer,
@@ -278,6 +284,12 @@ class SalesProvider with ChangeNotifier {
     required double totalPrice,
     required String paymentId,
     required String orderId,
+    // --- NEW ADDRESS PARAMETERS ADDED ---
+    required String shippingAddress,
+    required String city,
+    required String state,
+    required String postalCode,
+    // ------------------------------------
   }) async {
     // Check for self-purchase, which shouldn't be allowed
     if (listing.sellerId == buyer.uid) {
@@ -329,7 +341,7 @@ class SalesProvider with ChangeNotifier {
           unit: listing.unit,
           quantityPurchased: quantityPurchased,
           unitPrice: listing.price, // This is the correct unit price
-          totalPrice: totalPrice,   // This is the calculated total
+          totalPrice: totalPrice, // This is the calculated total
           sellerId: listing.sellerId,
           sellerName: listing.sellerName,
           buyerId: buyer.uid,
@@ -340,6 +352,13 @@ class SalesProvider with ChangeNotifier {
           paymentId: paymentId,
           orderId: orderId,
           paymentStatus: 'completed',
+          
+          // --- USE NEW ADDRESS PARAMETERS ---
+          shippingAddress: shippingAddress,
+          city: city,
+          state: state,
+          postalCode: postalCode,
+          // ----------------------------------
         );
 
         // 5. Commit the writes *within* the transaction
