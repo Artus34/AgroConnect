@@ -37,6 +37,11 @@ import 'features/chat_bot/views/chatbot_screen.dart';
 
 // --- IMPORT ADDED FOR NEW FEATURE ---
 import 'features/my_crops/controllers/my_crops_provider.dart';
+import 'core/services/notification_service.dart'; // <<< NEW
+import 'core/services/navigation_provider.dart'; // <<< NEW
+
+// --- Global instance of the Notification Service ---
+late final NotificationService notificationService;
 
 void main() async {
   try {
@@ -45,7 +50,21 @@ void main() async {
     await Firebase.initializeApp(
       options: DefaultFirebaseOptions.currentPlatform,
     );
-    runApp(const MyApp());
+
+    // 1. Initialize Navigation Provider (its logic will be handled via Provider)
+    final navProvider = NavigationProvider();
+
+    // 2. Initialize Notification Service and link its callback to the Navigation Provider
+    notificationService = NotificationService(
+      onNotificationTapped: navProvider.navigateToTabFromPayload,
+    );
+    await notificationService.initialize();
+
+    // 3. Start the repeating timer for random notifications
+    notificationService.startNotificationTimer();
+
+    // Pass the initialized navigation provider to MyApp
+    runApp(MyApp(navProvider: navProvider));
   } catch (e) {
     debugPrint('--- FATAL ERROR DURING APP INITIALIZATION ---');
     debugPrint('ERROR: $e');
@@ -54,13 +73,20 @@ void main() async {
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+  // Pass the already created Navigation Provider instance
+  final NavigationProvider navProvider;
+
+  const MyApp({super.key, required this.navProvider});
 
   @override
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
-        // ⭐️ FIX: Reverting to standard Provider creation. 
+        // --- ADDED NAVIGATION PROVIDER ---
+        ChangeNotifierProvider.value(value: navProvider), // <<< NEW
+        // ---------------------------------
+        
+        // ⭐️ FIX: Reverting to standard Provider creation.
         // The AuthProvider constructor now handles the subscription automatically.
         ChangeNotifierProvider(create: (context) => AuthProvider()),
         
@@ -116,9 +142,6 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         home: const AuthWrapper(),
         routes: {
-          // --- REMOVED /home ROUTE ---
-          // '/home': (context) => const HomeScreen(),
-          // --- END REMOVAL ---
           '/signup': (context) => const SignUpScreen(),
           '/chat-bot': (context) => const ChatbotScreen(),
           // Keep specific deep links for screens accessed via FeatureCards, as they bypass the bottom nav
